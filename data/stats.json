@@ -1,0 +1,252 @@
+{
+  "generated_at": "2026-11-17T16:34:21",
+  "frameworks": {
+    "artex": {
+      "name": "ARTEX",
+      "last_run": "2026-11-17",
+      "complete": true,
+      "live_ips": 2131,
+      "live_services": 2436,
+      "new_ips": 2131,
+      "gone_ips": 0,
+      "total_ips_ever": 2131,
+      "top_countries": [
+        {
+          "code": "US",
+          "count": 927
+        },
+        {
+          "code": "HK",
+          "count": 452
+        },
+        {
+          "code": "CN",
+          "count": 213
+        },
+        {
+          "code": "JP",
+          "count": 123
+        },
+        {
+          "code": "KR",
+          "count": 78
+        },
+        {
+          "code": "SG",
+          "count": 62
+        },
+        {
+          "code": "DE",
+          "count": 44
+        },
+        {
+          "code": "GB",
+          "count": 36
+        },
+        {
+          "code": "BR",
+          "count": 29
+        },
+        {
+          "code": "ID",
+          "count": 20
+        }
+      ],
+      "top_orgs": [
+        {
+          "org": "Cogent Communications, LLC",
+          "count": 533
+        },
+        {
+          "org": "cf-validation: 655d02a1-9026-43f0-86ba-5125d0ab01bc⁠",
+          "count": 192
+        },
+        {
+          "org": "Alibaba Cloud LLC",
+          "count": 84
+        },
+        {
+          "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+          "count": 80
+        },
+        {
+          "org": "LUOGELANG (FRANCE) LIMITED",
+          "count": 64
+        },
+        {
+          "org": "HostPapa",
+          "count": 49
+        },
+        {
+          "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
+          "count": 45
+        },
+        {
+          "org": "RedLuff, LLC",
+          "count": 33
+        },
+        {
+          "org": "Alibaba Cloud (Singapore) Private Limited",
+          "count": 30
+        },
+        {
+          "org": "Tencent Building, Kejizhongyi Avenue",
+          "count": 26
+        }
+      ],
+      "top_ports": [
+        {
+          "port": 8787,
+          "count": 1597
+        },
+        {
+          "port": 443,
+          "count": 354
+        },
+        {
+          "port": 8790,
+          "count": 195
+        },
+        {
+          "port": 80,
+          "count": 149
+        },
+        {
+          "port": 8443,
+          "count": 26
+        },
+        {
+          "port": 8080,
+          "count": 18
+        },
+        {
+          "port": 8081,
+          "count": 10
+        },
+        {
+          "port": 8090,
+          "count": 7
+        },
+        {
+          "port": 8789,
+          "count": 6
+        },
+        {
+          "port": 3000,
+          "count": 6
+        }
+      ],
+      "versions": []
+    },
+    "cairn": {
+      "name": "Cairn",
+      "last_run": "2026-11-17",
+      "complete": true,
+      "live_ips": 23,
+      "live_services": 23,
+      "new_ips": 23,
+      "gone_ips": 0,
+      "total_ips_ever": 23,
+      "top_countries": [
+        {
+          "code": "US",
+          "count": 5
+        },
+        {
+          "code": "CN",
+          "count": 3
+        },
+        {
+          "code": "NL",
+          "count": 2
+        },
+        {
+          "code": "CH",
+          "count": 2
+        },
+        {
+          "code": "SG",
+          "count": 1
+        },
+        {
+          "code": "RU",
+          "count": 1
+        },
+        {
+          "code": "RO",
+          "count": 1
+        },
+        {
+          "code": "PL",
+          "count": 1
+        },
+        {
+          "code": "KR",
+          "count": 1
+        },
+        {
+          "code": "IL",
+          "count": 1
+        }
+      ],
+      "top_orgs": [
+        {
+          "org": "PRIVATE LAYER INC",
+          "count": 2
+        },
+        {
+          "org": "HostPapa",
+          "count": 2
+        },
+        {
+          "org": "Vultr Holdings, LLC",
+          "count": 1
+        },
+        {
+          "org": "Vultr Holdings LLC Amsterdam",
+          "count": 1
+        },
+        {
+          "org": "The Constant Company, LLC",
+          "count": 1
+        },
+        {
+          "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+          "count": 1
+        },
+        {
+          "org": "Tencent Building, Kejizhongyi Avenue",
+          "count": 1
+        },
+        {
+          "org": "Shanghai UCloud Information Technology Company Limited",
+          "count": 1
+        },
+        {
+          "org": "Servury",
+          "count": 1
+        },
+        {
+          "org": "OVH Hosting, Inc.",
+          "count": 1
+        }
+      ],
+      "top_ports": [
+        {
+          "port": 8000,
+          "count": 23
+        }
+      ],
+      "versions": [
+        {
+          "version": "Cairn 0.2.1",
+          "count": 23
+        }
+      ]
+    }
+  },
+  "total": {
+    "live_ips": 2154,
+    "total_ips_ever": 2154
+  }
+}
