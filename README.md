@@ -8,7 +8,8 @@ The feed is updated automatically every day from Shodan. One list per framework.
 | Framework | Key | What it is | Detection |
 |---|---|---|---|
 | ARTEX | `artex` | Autonomous penetration testing console (Chinese / Korean / English UI, also rebranded e.g. as AntiFox, TGSEC) | page title `ARTEX`, `自主渗透测试控制台`, `자율 침투 테스트 콘솔` |
-| Cairn | `cairn` | Agent framework web UI (uvicorn, port 8000) | Shodan product `Cairn` |
+| Cairn | `cairn` | Agent framework web UI (uvicorn on port 8000, or behind nginx) | Shodan product `Cairn`, TLS certificate `Cairn Platform` |
+| CyberStrikeAI | `cyberstrikeai` | AI-driven offensive testing platform | favicon hash `-1349384020` |
 
 ## Files
 
