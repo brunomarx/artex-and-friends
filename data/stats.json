@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-18T15:39:49",
+  "generated_at": "2026-11-18T15:43:34",
   "frameworks": {
     "artex": {
       "name": "ARTEX",
       "last_run": "2026-11-18",
       "complete": true,
-      "live_ips": 2168,
-      "live_services": 2487,
+      "live_ips": 2165,
+      "live_services": 2484,
       "new_ips": 37,
       "gone_ips": 0,
-      "total_ips_ever": 2168,
+      "total_ips_ever": 2165,
       "top_countries": [
         {
           "code": "US",
-          "count": 942
+          "count": 940
         },
         {
           "code": "HK",
@@ -37,7 +37,7 @@
         },
         {
           "code": "DE",
-          "count": 45
+          "count": 44
         },
         {
           "code": "GB",
@@ -101,7 +101,7 @@
         },
         {
           "port": 443,
-          "count": 372
+          "count": 369
         },
         {
           "port": 8790,
@@ -151,7 +151,7 @@
         },
         {
           "version": "nginx 1.24.0",
-          "count": 42
+          "count": 41
         },
         {
           "version": "nginx 1.31.6",
@@ -481,7 +481,7 @@
     }
   },
   "total": {
-    "live_ips": 2422,
-    "total_ips_ever": 2422
+    "live_ips": 2419,
+    "total_ips_ever": 2419
   }
 }

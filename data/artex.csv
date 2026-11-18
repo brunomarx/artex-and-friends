@@ -1389,7 +1389,6 @@ ip,port,first_seen,last_seen,shodan_ts,title,product,version,org,asn,country,cit
 103.244.149.40,8787,2026-11-17,2026-11-18,2026-11-12T12:07:03.893052,AntiFox — 自主渗透测试控制台,,,"Shenzhenshihong Technology Development Co., Ltd.",AS135357,HK,Tseung Kwan O,,title_zh
 103.246.247.116,443,2026-11-17,2026-11-18,2026-11-18T07:47:46.506586,ARTEX — 自主渗透测试控制台,nginx,1.24.0,Cloudie Limited,AS55933,HK,Tseung Kwan O,,"title_artex,title_zh"
 103.246.247.116,9443,2026-11-17,2026-11-18,2026-11-15T12:51:21.929757,AntiFox — 自主渗透测试控制台,nginx,1.24.0,Cloudie Limited,AS55933,HK,Tseung Kwan O,,title_zh
-104.21.15.11,443,2026-11-18,2026-11-18,2026-11-17T16:35:54.548271,Artex Truck Center | International Trucks in Texarkana,,,"Cloudflare, Inc.",AS13335,US,San Francisco,artextruckcenter.com,title_artex
 104.37.174.101,8787,2026-11-17,2026-11-18,2026-11-03T08:48:14.132103,ARTEX — Autonomous Penetration Testing Console,ARTEX,0.4.0,"Majestic Hosting Solutions, LLC",AS396073,US,Dallas,,title_artex
 104.64.205.114,9443,2026-11-17,2026-11-18,2026-11-17T13:17:13.286501,ARTEX — 自主渗透测试控制台,,,"Akamai Technologies, Inc.",AS63949,US,Cambridge,104-64-205-114.ip.linodeusercontent.com,"title_artex,title_zh"
 104.168.63.130,8787,2026-11-17,2026-11-18,2026-11-03T09:18:23.290425,ARTEX — 自主渗透测试控制台,ARTEX,,HostPapa,AS36352,US,Buffalo,104-168-63-130-host.colocrossing.com,"title_artex,title_zh"
@@ -2154,7 +2153,6 @@ ip,port,first_seen,last_seen,shodan_ts,title,product,version,org,asn,country,cit
 170.9.6.105,8787,2026-11-17,2026-11-18,2026-11-17T19:12:12.976940,ARTEX — 自主渗透测试控制台,ARTEX,,Oracle Corporation,AS31898,US,Austin,,"title_artex,title_zh"
 170.9.8.186,8787,2026-11-17,2026-11-18,2026-11-17T19:07:37.439737,ARTEX — 自主渗透测试控制台,ARTEX,,Oracle Corporation,AS31898,US,Austin,,"title_artex,title_zh"
 170.106.174.162,8787,2026-11-17,2026-11-18,2026-11-16T12:40:30.346697,ARTEX — 自主渗透测试控制台,ARTEX,,"Tencent Building, Kejizhongyi Avenue",AS132203,US,Santa Clara,,"title_artex,title_zh"
-172.67.160.253,443,2026-11-18,2026-11-18,2026-11-17T16:37:40.007815,Artex Truck Center | International Trucks in Texarkana,,,"Cloudflare, Inc.",AS13335,US,San Francisco,"artextruckcenter.com,www.artextruckcenter.com",title_artex
 172.96.14.106,8787,2026-11-17,2026-11-18,2026-11-13T13:13:52.295659,ARTEX — 自主渗透测试控制台,ARTEX,,Heymman Servers Corporation,AS64236,US,Kansas City,www.ipvps.us,"title_artex,title_zh"
 172.105.240.241,8787,2026-11-17,2026-11-18,2026-11-03T21:26:18.150516,ARTEX — 自主渗透测试控制台,ARTEX,0.3.16,Linode,AS63949,JP,Tokyo,172-105-240-241.ip.linodeusercontent.com,"title_artex,title_zh"
 172.245.146.148,8787,2026-11-17,2026-11-18,2026-11-17T00:20:07.063669,ARTEX — 自主渗透测试控制台,ARTEX,0.3.16,RackNerd LLC,AS36352,US,Seattle,172-245-146-148-host.colocrossing.com,"title_artex,title_zh"
@@ -2332,7 +2330,6 @@ ip,port,first_seen,last_seen,shodan_ts,title,product,version,org,asn,country,cit
 193.108.56.58,8787,2026-11-17,2026-11-18,2026-11-17T19:02:40.665084,ARTEX — 自主渗透测试控制台,,,VIRTUAL TELECOM LLC,AS210699,US,Los Angeles,ip58.ip-193-108-56.addr-dns.fr,"title_artex,title_zh"
 194.15.38.249,8787,2026-11-17,2026-11-18,2026-11-17T14:17:56.699023,ARTEX — Autonomous Penetration Testing Console,ARTEX,,24fire GmbH,AS48314,FR,Calais,fireapi.de,title_artex
 194.59.183.71,8787,2026-11-17,2026-11-18,2026-11-02T13:28:15.344417,ARTEX — 自主渗透测试控制台,,,BlueVPS OU,AS62005,DE,Limburg an der Lahn,,"title_artex,title_zh"
-194.60.201.231,443,2026-11-18,2026-11-18,2026-11-17T17:11:37.897928,Artex — Seu catálogo em outro nível,nginx,1.24.0,Contabo GmbH,AS51167,DE,Düsseldorf,"artex.hugodevx.com.br,vmi3678974.contaboserver.net",title_artex
 194.233.80.13,80,2026-11-17,2026-11-18,2026-11-15T01:46:10.291422,ARTEX — 自主渗透入侵控制台,ARTEX,local,Contabo Asia Private Limited,AS141995,SG,Singapore,vmi3728854.contaboserver.net,title_artex
 194.233.80.13,443,2026-11-17,2026-11-18,2026-11-12T21:34:22.926285,ARTEX — 自主渗透入侵控制台,ARTEX,local,Contabo Asia Private Limited,AS141995,SG,Singapore,vmi3728854.contaboserver.net,title_artex
 194.233.80.13,2083,2026-11-17,2026-11-18,2026-11-15T00:40:30.882498,ARTEX — 自主渗透入侵控制台,ARTEX,local,Contabo Asia Private Limited,AS141995,SG,Singapore,vmi3728854.contaboserver.net,title_artex

@@ -1,6 +1,6 @@
 date,framework,live_ips,live_services,new_ips,gone_ips,total_ips_ever,raw_hits,unique_services,complete
 2026-11-17,artex,2131,2436,2131,0,2131,4503,2436,1
 2026-11-17,cairn,23,23,23,0,23,23,23,1
-2026-11-18,artex,2168,2487,37,0,2168,4573,2472,1
+2026-11-18,artex,2165,2484,37,0,2165,4573,2472,1
 2026-11-18,cairn,31,32,8,0,31,32,32,1
 2026-11-18,cyberstrikeai,254,265,254,0,254,265,265,1
