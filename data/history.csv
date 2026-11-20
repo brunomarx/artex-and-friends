@@ -7,3 +7,6 @@ date,framework,live_ips,live_services,new_ips,gone_ips,total_ips_ever,raw_hits,u
 2026-11-19,artex,2182,2510,30,13,2195,4631,2502,1
 2026-11-19,cairn,31,32,0,0,31,32,32,1
 2026-11-19,cyberstrikeai,274,285,20,0,274,279,279,1
+2026-11-20,artex,2256,2609,80,6,2275,4781,2589,1
+2026-11-20,cairn,33,34,2,0,33,34,34,1
+2026-11-20,cyberstrikeai,287,298,19,6,293,280,280,1
