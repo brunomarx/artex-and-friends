@@ -1,77 +1,85 @@
 {
-  "generated_at": "2026-11-21T04:15:01",
+  "generated_at": "2026-11-22T04:12:20",
   "frameworks": {
     "artex": {
       "name": "ARTEX",
-      "last_run": "2026-11-21",
+      "last_run": "2026-11-22",
       "complete": true,
-      "live_ips": 2312,
-      "live_services": 2677,
-      "new_ips": 72,
-      "gone_ips": 17,
-      "total_ips_ever": 2347,
+      "live_ips": 2374,
+      "live_services": 2753,
+      "new_ips": 73,
+      "gone_ips": 12,
+      "total_ips_ever": 2420,
       "top_countries": [
         {
           "code": "US",
-          "count": 983
+          "count": 997
         },
         {
           "code": "HK",
-          "count": 492
+          "count": 501
         },
         {
           "code": "CN",
-          "count": 240
+          "count": 247
         },
         {
           "code": "JP",
-          "count": 124
+          "count": 126
         },
         {
           "code": "KR",
-          "count": 80
+          "count": 83
         },
         {
           "code": "SG",
-          "count": 70
+          "count": 73
+        },
+        {
+          "code": "DE",
+          "count": 51
         },
         {
           "code": "GB",
           "count": 46
         },
         {
-          "code": "DE",
-          "count": 46
-        },
-        {
           "code": "BR",
-          "count": 36
+          "count": 40
         },
         {
           "code": "NL",
-          "count": 22
+          "count": 24
         }
       ],
       "top_orgs": [
         {
           "org": "Cogent Communications, LLC",
-          "count": 532
+          "count": 378
         },
         {
           "org": "cf-validation: 655d02a1-9026-43f0-86ba-5125d0ab01bc⁠",
-          "count": 198
+          "count": 201
+        },
+        {
+          "org": "PEG TECH INC",
+          "count": 174
         },
         {
           "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-          "count": 85
+          "count": 86
         },
         {
           "org": "Alibaba Cloud LLC",
-          "count": 82
+          "count": 83
         },
         {
           "org": "LUOGELANG (FRANCE) LIMITED",
           "count": 64
+        },
+        {
+          "org": "Tencent Building, Kejizhongyi Avenue",
+          "count": 63
         },
         {
           "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
@@ -79,56 +87,48 @@
         },
         {
           "org": "HostPapa",
-          "count": 52
-        },
-        {
-          "org": "Tencent Building, Kejizhongyi Avenue",
-          "count": 35
+          "count": 51
         },
         {
           "org": "RedLuff, LLC",
-          "count": 33
-        },
-        {
-          "org": "Netsec Limited",
           "count": 33
         }
       ],
       "top_ports": [
         {
           "port": 8787,
-          "count": 1684
+          "count": 1701
         },
         {
           "port": 443,
-          "count": 411
+          "count": 445
         },
         {
           "port": 8790,
-          "count": 222
+          "count": 225
         },
         {
           "port": 80,
-          "count": 182
+          "count": 187
         },
         {
           "port": 8443,
-          "count": 31
+          "count": 34
         },
         {
           "port": 8080,
-          "count": 25
+          "count": 27
         },
         {
           "port": 8090,
           "count": 11
         },
         {
-          "port": 8789,
-          "count": 10
+          "port": 8081,
+          "count": 11
         },
         {
-          "port": 8081,
+          "port": 8789,
           "count": 10
         },
         {
@@ -139,11 +139,11 @@
       "versions": [
         {
           "version": "ARTEX sco-fix2",
-          "count": 444
+          "count": 449
         },
         {
           "version": "nginx 1.18.0",
-          "count": 141
+          "count": 171
         },
         {
           "version": "ARTEX 0.3.15",
@@ -151,15 +151,15 @@
         },
         {
           "version": "nginx 1.24.0",
-          "count": 45
+          "count": 46
+        },
+        {
+          "version": "ARTEX 0.3.15-global.1",
+          "count": 39
         },
         {
           "version": "ARTEX 0.3.19",
           "count": 38
-        },
-        {
-          "version": "ARTEX 0.3.15-global.1",
-          "count": 36
         },
         {
           "version": "ARTEX 0.3.23",
@@ -167,11 +167,11 @@
         },
         {
           "version": "ARTEX 0.4.2",
-          "count": 26
+          "count": 28
         },
         {
           "version": "ARTEX 0.3.25",
-          "count": 24
+          "count": 23
         },
         {
           "version": "ARTEX 0.4.3",
@@ -181,17 +181,17 @@
     },
     "cairn": {
       "name": "Cairn",
-      "last_run": "2026-11-21",
+      "last_run": "2026-11-22",
       "complete": true,
       "live_ips": 33,
       "live_services": 34,
-      "new_ips": 0,
-      "gone_ips": 0,
-      "total_ips_ever": 33,
+      "new_ips": 1,
+      "gone_ips": 1,
+      "total_ips_ever": 34,
       "top_countries": [
         {
           "code": "US",
-          "count": 5
+          "count": 6
         },
         {
           "code": "CN",
@@ -233,7 +233,7 @@
       "top_orgs": [
         {
           "org": "Cogent Communications, LLC",
-          "count": 3
+          "count": 4
         },
         {
           "org": "Xiamen Kuaikuai Network Technology Co.,Ltd",
@@ -264,11 +264,11 @@
           "count": 1
         },
         {
-          "org": "The Constant Company, LLC",
+          "org": "Tencent cloud computing (Beijing) Co., Ltd.",
           "count": 1
         },
         {
-          "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+          "org": "Tencent Building, Kejizhongyi Avenue",
           "count": 1
         }
       ],
@@ -303,29 +303,29 @@
     },
     "cyberstrikeai": {
       "name": "CyberStrikeAI",
-      "last_run": "2026-11-21",
+      "last_run": "2026-11-22",
       "complete": true,
-      "live_ips": 296,
-      "live_services": 307,
+      "live_ips": 299,
+      "live_services": 312,
       "new_ips": 19,
-      "gone_ips": 11,
-      "total_ips_ever": 312,
+      "gone_ips": 18,
+      "total_ips_ever": 331,
       "top_countries": [
         {
           "code": "CN",
-          "count": 83
+          "count": 80
         },
         {
           "code": "US",
-          "count": 69
+          "count": 74
         },
         {
           "code": "HK",
-          "count": 56
+          "count": 58
         },
         {
           "code": "NL",
-          "count": 29
+          "count": 27
         },
         {
           "code": "JP",
@@ -333,15 +333,15 @@
         },
         {
           "code": "SG",
-          "count": 9
-        },
-        {
-          "code": "KR",
-          "count": 5
+          "count": 11
         },
         {
           "code": "DE",
           "count": 5
+        },
+        {
+          "code": "KR",
+          "count": 4
         },
         {
           "code": "GB",
@@ -355,7 +355,7 @@
       "top_orgs": [
         {
           "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-          "count": 33
+          "count": 30
         },
         {
           "org": "Okpay Investment Company",
@@ -363,7 +363,7 @@
         },
         {
           "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-          "count": 16
+          "count": 17
         },
         {
           "org": "HostPapa",
@@ -375,11 +375,11 @@
         },
         {
           "org": "CTG Server Ltd.",
-          "count": 9
+          "count": 11
         },
         {
           "org": "cognetcloud INC",
-          "count": 7
+          "count": 6
         },
         {
           "org": "Netsec Limited",
@@ -390,18 +390,18 @@
           "count": 6
         },
         {
-          "org": "Zillion Network Inc.",
-          "count": 4
+          "org": "Tencent Building, Kejizhongyi Avenue",
+          "count": 5
         }
       ],
       "top_ports": [
         {
           "port": 8080,
-          "count": 179
+          "count": 184
         },
         {
           "port": 443,
-          "count": 34
+          "count": 35
         },
         {
           "port": 8085,
@@ -417,10 +417,14 @@
         },
         {
           "port": 8443,
-          "count": 4
+          "count": 5
         },
         {
           "port": 18081,
+          "count": 3
+        },
+        {
+          "port": 8089,
           "count": 3
         },
         {
@@ -430,32 +434,28 @@
         {
           "port": 18080,
           "count": 2
-        },
-        {
-          "port": 9443,
-          "count": 2
         }
       ],
       "versions": [
         {
           "version": "CyberStrikeAI 1.7.24",
-          "count": 110
-        },
-        {
-          "version": "CyberStrikeAI 1.7.17",
-          "count": 18
+          "count": 108
         },
         {
           "version": "CyberStrikeAI 1.8.0",
-          "count": 17
+          "count": 26
         },
         {
           "version": "CyberStrikeAI 1.7.23",
+          "count": 17
+        },
+        {
+          "version": "CyberStrikeAI 1.7.17",
           "count": 16
         },
         {
           "version": "CyberStrikeAI 1.7.20",
-          "count": 16
+          "count": 15
         },
         {
           "version": "CyberStrikeAI 1.7.18",
@@ -471,17 +471,17 @@
         },
         {
           "version": "CyberStrikeAI 1.7.19",
-          "count": 5
+          "count": 6
         },
         {
           "version": "CyberStrikeAI 1.7.12",
-          "count": 4
+          "count": 5
         }
       ]
     }
   },
   "total": {
-    "live_ips": 2598,
-    "total_ips_ever": 2644
+    "live_ips": 2662,
+    "total_ips_ever": 2734
   }
 }
