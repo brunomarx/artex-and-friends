@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-26T04:10:46",
+  "generated_at": "2026-11-27T04:09:42",
   "frameworks": {
     "artex": {
       "name": "ARTEX",
-      "last_run": "2026-11-26",
+      "last_run": "2026-11-27",
       "complete": true,
-      "live_ips": 2791,
-      "live_services": 3216,
-      "new_ips": 105,
-      "gone_ips": 26,
-      "total_ips_ever": 2920,
+      "live_ips": 2885,
+      "live_services": 3318,
+      "new_ips": 108,
+      "gone_ips": 14,
+      "total_ips_ever": 3028,
       "top_countries": [
         {
           "code": "US",
-          "count": 1064
+          "count": 1084
         },
         {
           "code": "HK",
-          "count": 567
+          "count": 576
         },
         {
           "code": "CN",
-          "count": 279
+          "count": 291
         },
         {
           "code": "JP",
-          "count": 157
+          "count": 168
         },
         {
           "code": "KR",
-          "count": 103
+          "count": 112
         },
         {
           "code": "SG",
-          "count": 90
-        },
-        {
-          "code": "DE",
-          "count": 75
+          "count": 93
         },
         {
           "code": "BR",
-          "count": 75
+          "count": 83
+        },
+        {
+          "code": "DE",
+          "count": 76
         },
         {
           "code": "NL",
-          "count": 67
+          "count": 66
         },
         {
           "code": "GB",
-          "count": 54
+          "count": 55
         }
       ],
       "top_orgs": [
         {
           "org": "Cogent Communications, LLC",
-          "count": 381
+          "count": 379
         },
         {
           "org": "Tencent Building, Kejizhongyi Avenue",
-          "count": 225
+          "count": 263
         },
         {
           "org": "cf-validation: 655d02a1-9026-43f0-86ba-5125d0ab01bc⁠",
@@ -67,11 +67,11 @@
         },
         {
           "org": "PEG TECH INC",
-          "count": 180
+          "count": 181
         },
         {
           "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-          "count": 105
+          "count": 108
         },
         {
           "org": "Alibaba Cloud LLC",
@@ -79,7 +79,7 @@
         },
         {
           "org": "ACEVILLE PTE.LTD.",
-          "count": 67
+          "count": 83
         },
         {
           "org": "LUOGELANG (FRANCE) LIMITED",
@@ -87,37 +87,37 @@
         },
         {
           "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-          "count": 58
+          "count": 61
         },
         {
           "org": "HostPapa",
-          "count": 50
+          "count": 51
         }
       ],
       "top_ports": [
         {
           "port": 8787,
-          "count": 1796
+          "count": 1819
         },
         {
           "port": 443,
-          "count": 696
+          "count": 762
         },
         {
           "port": 8790,
-          "count": 241
+          "count": 242
         },
         {
           "port": 80,
-          "count": 209
+          "count": 212
         },
         {
           "port": 8443,
-          "count": 44
+          "count": 45
         },
         {
           "port": 8080,
-          "count": 28
+          "count": 30
         },
         {
           "port": 19000,
@@ -125,77 +125,81 @@
         },
         {
           "port": 18800,
-          "count": 23
+          "count": 21
+        },
+        {
+          "port": 8789,
+          "count": 12
         },
         {
           "port": 8081,
           "count": 12
-        },
-        {
-          "port": 8789,
-          "count": 11
         }
       ],
       "versions": [
         {
           "version": "ARTEX sco-fix2",
-          "count": 456
+          "count": 459
         },
         {
           "version": "nginx 1.18.0",
-          "count": 381
+          "count": 437
         },
         {
           "version": "ARTEX 0.3.15",
-          "count": 122
+          "count": 128
         },
         {
           "version": "nginx 1.24.0",
-          "count": 58
-        },
-        {
-          "version": "nginx 1.28.3",
-          "count": 51
+          "count": 61
         },
         {
           "version": "ARTEX 0.3.15-global.1",
-          "count": 50
+          "count": 52
+        },
+        {
+          "version": "nginx 1.28.3",
+          "count": 48
         },
         {
           "version": "ARTEX 0.3.19",
-          "count": 40
+          "count": 39
         },
         {
           "version": "ARTEX 0.3.23",
-          "count": 37
+          "count": 35
         },
         {
           "version": "ARTEX 0.4.2",
           "count": 26
         },
         {
-          "version": "ARTEX 0.3.25",
-          "count": 22
+          "version": "ARTEX 0.4.5",
+          "count": 23
         }
       ]
     },
     "cairn": {
       "name": "Cairn",
-      "last_run": "2026-11-26",
+      "last_run": "2026-11-27",
       "complete": true,
-      "live_ips": 32,
-      "live_services": 34,
+      "live_ips": 34,
+      "live_services": 36,
       "new_ips": 1,
-      "gone_ips": 1,
-      "total_ips_ever": 37,
+      "gone_ips": 0,
+      "total_ips_ever": 38,
       "top_countries": [
         {
           "code": "US",
-          "count": 6
+          "count": 7
         },
         {
           "code": "CN",
           "count": 4
+        },
+        {
+          "code": "HK",
+          "count": 3
         },
         {
           "code": "BR",
@@ -211,10 +215,6 @@
         },
         {
           "code": "KR",
-          "count": 2
-        },
-        {
-          "code": "HK",
           "count": 2
         },
         {
@@ -236,11 +236,19 @@
           "count": 4
         },
         {
+          "org": "Tencent Building, Kejizhongyi Avenue",
+          "count": 2
+        },
+        {
           "org": "PRIVATE LAYER INC",
           "count": 2
         },
         {
           "org": "NetLab Global - AP",
+          "count": 2
+        },
+        {
+          "org": "HostPapa",
           "count": 2
         },
         {
@@ -260,22 +268,14 @@
           "count": 1
         },
         {
-          "org": "Tencent Building, Kejizhongyi Avenue",
-          "count": 1
-        },
-        {
           "org": "Shanghai UCloud Information Technology Company Limited",
-          "count": 1
-        },
-        {
-          "org": "Servury",
           "count": 1
         }
       ],
       "top_ports": [
         {
           "port": 8000,
-          "count": 25
+          "count": 27
         },
         {
           "port": 443,
@@ -297,7 +297,7 @@
       "versions": [
         {
           "version": "Cairn 0.2.1",
-          "count": 26
+          "count": 28
         },
         {
           "version": "nginx 1.24.0",
@@ -307,25 +307,25 @@
     },
     "cyberstrikeai": {
       "name": "CyberStrikeAI",
-      "last_run": "2026-11-26",
+      "last_run": "2026-11-27",
       "complete": true,
-      "live_ips": 296,
-      "live_services": 312,
-      "new_ips": 13,
-      "gone_ips": 13,
-      "total_ips_ever": 368,
+      "live_ips": 310,
+      "live_services": 326,
+      "new_ips": 17,
+      "gone_ips": 11,
+      "total_ips_ever": 385,
       "top_countries": [
         {
           "code": "CN",
-          "count": 76
+          "count": 80
         },
         {
           "code": "HK",
-          "count": 68
+          "count": 73
         },
         {
           "code": "US",
-          "count": 63
+          "count": 66
         },
         {
           "code": "NL",
@@ -333,11 +333,11 @@
         },
         {
           "code": "JP",
-          "count": 14
+          "count": 17
         },
         {
           "code": "SG",
-          "count": 10
+          "count": 8
         },
         {
           "code": "KR",
@@ -367,27 +367,27 @@
         },
         {
           "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-          "count": 18
+          "count": 20
+        },
+        {
+          "org": "CTG Server Ltd.",
+          "count": 14
         },
         {
           "org": "HostPapa",
           "count": 11
         },
         {
-          "org": "CTG Server Ltd.",
-          "count": 11
+          "org": "PEG TECH INC",
+          "count": 10
         },
         {
           "org": "Cogent Communications, LLC",
           "count": 9
         },
         {
-          "org": "PEG TECH INC",
-          "count": 8
-        },
-        {
           "org": "Netsec Limited",
-          "count": 7
+          "count": 8
         },
         {
           "org": "Contabo GmbH",
@@ -401,11 +401,11 @@
       "top_ports": [
         {
           "port": 8080,
-          "count": 171
+          "count": 178
         },
         {
           "port": 443,
-          "count": 43
+          "count": 46
         },
         {
           "port": 8085,
@@ -424,41 +424,41 @@
           "count": 6
         },
         {
+          "port": 8090,
+          "count": 4
+        },
+        {
+          "port": 18081,
+          "count": 3
+        },
+        {
           "port": 9443,
           "count": 3
         },
         {
-          "port": 8089,
+          "port": 8168,
           "count": 3
-        },
-        {
-          "port": 8083,
-          "count": 3
-        },
-        {
-          "port": 18081,
-          "count": 2
         }
       ],
       "versions": [
         {
           "version": "CyberStrikeAI 1.7.24",
-          "count": 109
+          "count": 116
         },
         {
           "version": "CyberStrikeAI 1.8.0",
           "count": 31
         },
         {
-          "version": "CyberStrikeAI 1.7.20",
-          "count": 17
-        },
-        {
           "version": "CyberStrikeAI 1.7.17",
-          "count": 17
+          "count": 19
         },
         {
           "version": "CyberStrikeAI 1.7.23",
+          "count": 16
+        },
+        {
+          "version": "CyberStrikeAI 1.7.20",
           "count": 16
         },
         {
@@ -466,26 +466,26 @@
           "count": 13
         },
         {
-          "version": "CyberStrikeAI 1.7.9",
+          "version": "CyberStrikeAI 1.8.1",
           "count": 8
         },
         {
-          "version": "CyberStrikeAI 1.8.1",
-          "count": 6
+          "version": "CyberStrikeAI 1.7.9",
+          "count": 8
         },
         {
           "version": "CyberStrikeAI 1.7.22",
           "count": 6
         },
         {
-          "version": "CyberStrikeAI 1.7.12",
+          "version": "CyberStrikeAI 1.7.19",
           "count": 4
         }
       ]
     }
   },
   "total": {
-    "live_ips": 3081,
-    "total_ips_ever": 3269
+    "live_ips": 3184,
+    "total_ips_ever": 3389
   }
 }

@@ -1,313 +1,327 @@
 ip,port,first_seen,last_seen,shodan_ts,title,product,version,org,asn,country,city,hostnames,queries
-1.12.246.168,8080,2026-11-21,2026-11-26,2026-11-23T18:00:09.134545,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
-1.14.191.194,8080,2026-11-24,2026-11-26,2026-11-24T00:52:25.948273,CyberStrikeAI,CyberStrikeAI,1.7.15,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
-1.92.101.103,8085,2026-11-18,2026-11-26,2026-11-16T18:54:14.793782,CyberStrikeAI,CyberStrikeAI,1.7.14,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),AS55990,CN,Beijing,ecs-1-92-101-103.compute.hwclouds-dns.com,favicon
-3.20.114.34,443,2026-11-18,2026-11-26,2026-11-09T09:01:15.128489,CyberStrikeAI,nginx,1.28.3,Amazon Technologies Inc.,AS16509,US,Columbus,ec2-3-20-114-34.us-east-2.compute.amazonaws.com,favicon
-5.180.33.135,443,2026-11-19,2026-11-26,2026-11-20T11:11:30.086656,我的测试博客,CyberStrikeAI,1.7.24,Liga hosting LTD,AS201131,BR,Osasco,"ip.5-180-33-135.ligahosting.com,ndlsh.nya.je",favicon
-8.148.207.98,8080,2026-11-18,2026-11-26,2026-11-04T00:54:03.167020,CyberStrikeAI,,,Aliyun Computing Co.LTD,AS37963,CN,Guangzhou,,favicon
-8.220.214.128,8080,2026-11-20,2026-11-25,2026-11-24T22:10:56.047974,CyberStrikeAI,CyberStrikeAI,1.7.20,Alibaba Cloud (Singapore) Private Limited,AS45102,KR,Seoul,,favicon
-13.140.181.222,8080,2026-11-18,2026-11-26,2026-11-21T02:08:10.392468,CyberStrikeAI,CyberStrikeAI,1.7.24,Contabo GmbH,AS51167,US,Dallas,vmi3569485.contaboserver.net,favicon
-14.36.38.52,8080,2026-11-23,2026-11-26,2026-11-22T22:46:56.783074,CyberStrikeAI,CyberStrikeAI,1.7.24,Korea Telecom,AS4766,KR,Seoul,,favicon
-23.26.20.55,8080,2026-11-18,2026-11-26,2026-11-14T01:41:44.487448,CyberStrikeAI,CyberStrikeAI,1.7.24,"Ace Data Centers, Inc.",AS149440,US,Wardensville,23-26-20-55.ip.evoxt.io,favicon
-23.95.130.140,8080,2026-11-18,2026-11-26,2026-11-14T06:37:37.879972,CyberStrikeAI,CyberStrikeAI,1.7.24,HostPapa,AS36352,US,Buffalo,23-95-130-140-host.colocrossing.com,favicon
+1.12.246.168,8080,2026-11-21,2026-11-27,2026-11-23T18:00:09.134545,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
+1.14.191.194,8080,2026-11-24,2026-11-27,2026-11-24T00:52:25.948273,CyberStrikeAI,CyberStrikeAI,1.7.15,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
+1.92.101.103,8085,2026-11-18,2026-11-27,2026-11-26T19:39:00.910692,CyberStrikeAI,CyberStrikeAI,1.7.14,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),AS55990,CN,Beijing,ecs-1-92-101-103.compute.hwclouds-dns.com,favicon
+3.20.114.34,443,2026-11-18,2026-11-27,2026-11-09T09:01:15.128489,CyberStrikeAI,nginx,1.28.3,Amazon Technologies Inc.,AS16509,US,Columbus,ec2-3-20-114-34.us-east-2.compute.amazonaws.com,favicon
+5.180.33.135,443,2026-11-19,2026-11-27,2026-11-20T11:11:30.086656,我的测试博客,CyberStrikeAI,1.7.24,Liga hosting LTD,AS201131,BR,Osasco,"ip.5-180-33-135.ligahosting.com,ndlsh.nya.je",favicon
+8.148.207.98,8080,2026-11-18,2026-11-27,2026-11-04T00:54:03.167020,CyberStrikeAI,,,Aliyun Computing Co.LTD,AS37963,CN,Guangzhou,,favicon
+13.140.181.222,8080,2026-11-18,2026-11-27,2026-11-21T02:08:10.392468,CyberStrikeAI,CyberStrikeAI,1.7.24,Contabo GmbH,AS51167,US,Dallas,vmi3569485.contaboserver.net,favicon
+14.36.38.52,8080,2026-11-23,2026-11-27,2026-11-22T22:46:56.783074,CyberStrikeAI,CyberStrikeAI,1.7.24,Korea Telecom,AS4766,KR,Seoul,,favicon
+23.26.20.55,8080,2026-11-18,2026-11-27,2026-11-14T01:41:44.487448,CyberStrikeAI,CyberStrikeAI,1.7.24,"Ace Data Centers, Inc.",AS149440,US,Wardensville,23-26-20-55.ip.evoxt.io,favicon
+23.80.88.136,18081,2026-11-18,2026-11-27,2026-11-26T12:59:39.982013,CyberStrikeAI,CyberStrikeAI,1.7.19,"LeaseWeb USA, Inc. Los Angeles",AS395954,US,New York City,136.88.80.23.hosted.by.hostdzire.com,favicon
+23.95.130.140,8080,2026-11-18,2026-11-27,2026-11-14T06:37:37.879972,CyberStrikeAI,CyberStrikeAI,1.7.24,HostPapa,AS36352,US,Buffalo,23-95-130-140-host.colocrossing.com,favicon
 23.106.157.30,8082,2026-11-18,2026-11-26,2026-10-27T13:10:38.925637,CyberStrikeAI,,,IT7 Networks Inc,AS25820,US,Los Angeles,23.106.157.30.16clouds.com,favicon
-23.254.174.175,8080,2026-11-18,2026-11-26,2026-11-15T08:18:52.061046,CyberStrikeAI,CyberStrikeAI,1.7.24,HostPapa,AS36352,US,Boca Raton,,favicon
-27.102.129.166,8080,2026-11-20,2026-11-26,2026-11-19T11:23:01.077570,CyberStrikeAI,CyberStrikeAI,1.7.24,DAOU TECHNOLOGY,AS45996,KR,Seoul,,favicon
-31.25.10.40,8080,2026-11-24,2026-11-26,2026-11-23T15:40:35.134601,CyberStrikeAI,CyberStrikeAI,1.7.24,Greencloud LLC,AS9009,RO,Bucharest,,favicon
-31.57.51.146,8080,2026-11-18,2026-11-26,2026-11-04T18:55:26.251483,CyberStrikeAI,,,Private Customer,AS138648,DE,Frankfurt am Main,,favicon
-31.76.10.98,443,2026-11-18,2026-11-26,2026-11-03T17:03:16.497000,CyberStrikeAI,nginx,,play2go.cloud - Cheap and reliable hosting,AS215439,GB,Ipswich,hounded.internet-money.xyz,favicon
-34.21.198.14,8080,2026-11-22,2026-11-25,2026-11-23T22:19:59.623122,CyberStrikeAI,CyberStrikeAI,1.8.0,Google LLC,AS396982,SG,Singapore,14.198.21.34.bc.googleusercontent.com,favicon
-36.138.27.95,9000,2026-11-18,2026-11-26,2026-11-07T03:40:34.346921,CyberStrikeAI,,,"China Mobile Communications Group Co., Ltd",AS9808,CN,Xi’an,,favicon
-38.14.199.69,8080,2026-11-20,2026-11-26,2026-11-24T21:09:20.050399,CyberStrikeAI,CyberStrikeAI,1.7.24,PEG TECH INC,AS402169,US,San Jose,,favicon
-38.22.234.200,8081,2026-11-18,2026-11-26,2026-11-16T20:28:45.119585,CyberStrikeAI,CyberStrikeAI,1.7.17,"Cogent Communications, LLC",AS979,US,Los Angeles,,favicon
-38.54.88.188,9876,2026-11-18,2026-11-26,2026-11-23T23:07:40.886347,CyberStrikeAI,CyberStrikeAI,1.7.17,Kaopu Cloud HK Limited,AS154177,JP,Tokyo,,favicon
-38.55.192.244,443,2026-11-18,2026-11-26,2026-11-25T02:00:24.778671,CyberStrikeAI,CyberStrikeAI,1.7.24-src,PEG TECH INC,AS139659,HK,Tseung Kwan O,ylzztsub.win,favicon
-38.55.215.36,443,2026-11-18,2026-11-26,2026-11-22T04:18:12.708523,CyberStrikeAI,CyberStrikeAI,1.7.24,PEG TECH INC,AS400619,CN,Shenzhen,,favicon
-38.57.128.242,443,2026-11-26,2026-11-26,2026-11-25T15:42:37.962911,CyberStrikeAI,CyberStrikeAI,1.8.0,"Cogent Communications, LLC",AS22427,HK,Tseung Kwan O,a1.softdc.cn,favicon
-38.60.126.45,443,2026-11-19,2026-11-26,2026-11-25T13:52:46.625011,CyberStrikeAI,CyberStrikeAI,1.8.0,KURUN CLOUD INC,AS8796,US,Los Angeles,p.wispsalesinvoiceservices.com,favicon
+23.254.174.175,8080,2026-11-18,2026-11-27,2026-11-15T08:18:52.061046,CyberStrikeAI,CyberStrikeAI,1.7.24,HostPapa,AS36352,US,Boca Raton,,favicon
+27.102.129.166,8080,2026-11-20,2026-11-27,2026-11-19T11:23:01.077570,CyberStrikeAI,CyberStrikeAI,1.7.24,DAOU TECHNOLOGY,AS45996,KR,Seoul,,favicon
+31.25.10.40,8080,2026-11-24,2026-11-27,2026-11-23T15:40:35.134601,CyberStrikeAI,CyberStrikeAI,1.7.24,Greencloud LLC,AS9009,RO,Bucharest,,favicon
+31.57.51.146,8080,2026-11-18,2026-11-27,2026-11-04T18:55:26.251483,CyberStrikeAI,,,Private Customer,AS138648,DE,Frankfurt am Main,,favicon
+31.76.10.98,443,2026-11-18,2026-11-27,2026-11-03T17:03:16.497000,CyberStrikeAI,nginx,,play2go.cloud - Cheap and reliable hosting,AS215439,GB,Ipswich,hounded.internet-money.xyz,favicon
+36.138.27.95,9000,2026-11-18,2026-11-27,2026-11-07T03:40:34.346921,CyberStrikeAI,,,"China Mobile Communications Group Co., Ltd",AS9808,CN,Xi’an,,favicon
+38.14.199.69,8080,2026-11-20,2026-11-27,2026-11-24T21:09:20.050399,CyberStrikeAI,CyberStrikeAI,1.7.24,PEG TECH INC,AS402169,US,San Jose,,favicon
+38.22.234.200,8081,2026-11-18,2026-11-27,2026-11-16T20:28:45.119585,CyberStrikeAI,CyberStrikeAI,1.7.17,"Cogent Communications, LLC",AS979,US,Los Angeles,,favicon
+38.54.88.188,9876,2026-11-18,2026-11-27,2026-11-23T23:07:40.886347,CyberStrikeAI,CyberStrikeAI,1.7.17,Kaopu Cloud HK Limited,AS154177,JP,Tokyo,,favicon
+38.55.192.244,443,2026-11-18,2026-11-27,2026-11-25T02:00:24.778671,CyberStrikeAI,CyberStrikeAI,1.7.24-src,PEG TECH INC,AS139659,HK,Tseung Kwan O,ylzztsub.win,favicon
+38.55.200.204,8080,2026-11-27,2026-11-27,2026-11-26T09:19:05.614547,CyberStrikeAI,CyberStrikeAI,1.7.17,PEG TECH INC,AS400619,CN,Shenzhen,,favicon
+38.55.215.36,443,2026-11-18,2026-11-27,2026-11-22T04:18:12.708523,CyberStrikeAI,CyberStrikeAI,1.7.24,PEG TECH INC,AS400619,CN,Shenzhen,,favicon
+38.55.215.81,443,2026-11-27,2026-11-27,2026-11-26T21:58:38.420457,CyberStrikeAI,CyberStrikeAI,1.8.0,PEG TECH INC,AS400619,CN,Shenzhen,,favicon
+38.57.128.242,443,2026-11-26,2026-11-27,2026-11-25T15:42:37.962911,CyberStrikeAI,CyberStrikeAI,1.8.0,"Cogent Communications, LLC",AS22427,HK,Tseung Kwan O,a1.softdc.cn,favicon
+38.60.126.45,443,2026-11-19,2026-11-27,2026-11-25T13:52:46.625011,CyberStrikeAI,CyberStrikeAI,1.8.0,KURUN CLOUD INC,AS8796,US,Los Angeles,p.wispsalesinvoiceservices.com,favicon
 38.95.75.222,8080,2026-11-18,2026-11-26,2026-10-27T20:12:40.999169,CyberStrikeAI,,,"Cogent Communications, LLC",AS979,US,Los Angeles,,favicon
-38.207.177.71,8080,2026-11-18,2026-11-26,2026-11-15T11:00:04.422051,CyberStrikeAI,CyberStrikeAI,1.7.24,"Cogent Communications, LLC",AS139659,HK,Harmony Garden,,favicon
-38.244.44.222,80,2026-11-18,2026-11-26,2026-11-25T03:45:48.353841,CyberStrikeAI,CyberStrikeAI,1.7.24,"Cogent Communications, LLC",AS174,US,Los Angeles,,favicon
-43.129.199.134,80,2026-11-18,2026-11-26,2026-11-21T19:43:41.955656,CyberStrikeAI,CyberStrikeAI,1.7.23,"Tencent Building, Kejizhongyi Avenue",AS132203,HK,Hong Kong,,favicon
-43.129.199.134,8445,2026-11-18,2026-11-26,2026-11-14T21:04:05.238223,CyberStrikeAI,CyberStrikeAI,1.7.23,"Tencent Building, Kejizhongyi Avenue",AS132203,HK,Hong Kong,"777g.online,www.777g.online",favicon
-43.136.124.246,443,2026-11-18,2026-11-26,2026-11-24T06:03:09.250456,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Guangzhou,,favicon
-43.138.216.83,8080,2026-11-18,2026-11-26,2026-11-23T15:28:02.454591,CyberStrikeAI,CyberStrikeAI,1.7.20,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Guangzhou,,favicon
-43.139.11.29,8080,2026-11-24,2026-11-26,2026-11-23T20:57:48.411231,CyberStrikeAI,CyberStrikeAI,1.6.33,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Guangzhou,,favicon
-43.143.42.72,8858,2026-11-24,2026-11-26,2026-11-23T15:11:09.535852,CyberStrikeAI,CyberStrikeAI,1.8.1,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Shanghai,,favicon
-43.143.74.172,8080,2026-11-18,2026-11-26,2026-11-22T22:21:54.297478,CyberStrikeAI,CyberStrikeAI,1.7.9,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Shanghai,,favicon
-43.156.186.213,8089,2026-11-18,2026-11-26,2026-11-24T10:25:03.795358,CyberStrikeAI,CyberStrikeAI,1.7.18,"Tencent Building, Kejizhongyi Avenue",AS132203,SG,Singapore,,favicon
-43.160.211.117,8080,2026-11-21,2026-11-26,2026-11-23T23:35:23.961928,CyberStrikeAI,CyberStrikeAI,1.8.0,"Tencent Building, Kejizhongyi Avenue",AS132203,SG,Singapore,,favicon
-43.163.226.91,8080,2026-11-21,2026-11-26,2026-11-20T17:52:47.110962,CyberStrikeAI,CyberStrikeAI,1.8.0,ACEVILLE PTE.LTD.,AS132203,JP,Tokyo,,favicon
-43.166.239.166,8899,2026-11-18,2026-11-26,2026-11-25T17:12:22.711269,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent Building, Kejizhongyi Avenue",AS132203,US,Ashburn,,favicon
+38.207.177.71,8080,2026-11-18,2026-11-27,2026-11-15T11:00:04.422051,CyberStrikeAI,CyberStrikeAI,1.7.24,"Cogent Communications, LLC",AS139659,HK,Harmony Garden,,favicon
+38.244.44.222,80,2026-11-18,2026-11-27,2026-11-25T03:45:48.353841,CyberStrikeAI,CyberStrikeAI,1.7.24,"Cogent Communications, LLC",AS174,US,Los Angeles,,favicon
+43.129.199.134,80,2026-11-18,2026-11-27,2026-11-21T19:43:41.955656,CyberStrikeAI,CyberStrikeAI,1.7.23,"Tencent Building, Kejizhongyi Avenue",AS132203,HK,Hong Kong,,favicon
+43.129.199.134,8445,2026-11-18,2026-11-27,2026-11-14T21:04:05.238223,CyberStrikeAI,CyberStrikeAI,1.7.23,"Tencent Building, Kejizhongyi Avenue",AS132203,HK,Hong Kong,"777g.online,www.777g.online",favicon
+43.136.124.246,443,2026-11-18,2026-11-27,2026-11-24T06:03:09.250456,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Guangzhou,,favicon
+43.138.216.83,8080,2026-11-18,2026-11-27,2026-11-23T15:28:02.454591,CyberStrikeAI,CyberStrikeAI,1.7.20,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Guangzhou,,favicon
+43.139.11.29,8080,2026-11-24,2026-11-27,2026-11-23T20:57:48.411231,CyberStrikeAI,CyberStrikeAI,1.6.33,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Guangzhou,,favicon
+43.139.224.138,8080,2026-11-27,2026-11-27,2026-11-27T02:09:34.817617,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Guangzhou,,favicon
+43.142.253.180,8080,2026-11-27,2026-11-27,2026-11-26T08:19:53.766290,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Shanghai,,favicon
+43.143.42.72,8858,2026-11-24,2026-11-27,2026-11-23T15:11:09.535852,CyberStrikeAI,CyberStrikeAI,1.8.1,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Shanghai,,favicon
+43.143.74.172,8080,2026-11-18,2026-11-27,2026-11-22T22:21:54.297478,CyberStrikeAI,CyberStrikeAI,1.7.9,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Shanghai,,favicon
+43.156.186.213,8089,2026-11-18,2026-11-27,2026-11-24T10:25:03.795358,CyberStrikeAI,CyberStrikeAI,1.7.18,"Tencent Building, Kejizhongyi Avenue",AS132203,SG,Singapore,,favicon
+43.160.211.117,8080,2026-11-21,2026-11-27,2026-11-23T23:35:23.961928,CyberStrikeAI,CyberStrikeAI,1.8.0,"Tencent Building, Kejizhongyi Avenue",AS132203,SG,Singapore,,favicon
+43.163.226.91,8080,2026-11-21,2026-11-27,2026-11-20T17:52:47.110962,CyberStrikeAI,CyberStrikeAI,1.8.0,ACEVILLE PTE.LTD.,AS132203,JP,Tokyo,,favicon
+43.166.239.166,8899,2026-11-18,2026-11-27,2026-11-26T18:00:48.622393,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent Building, Kejizhongyi Avenue",AS132203,US,Ashburn,,favicon
 43.167.171.3,8080,2026-11-18,2026-11-26,2026-11-25T18:16:46.691174,CyberStrikeAI,CyberStrikeAI,1.7.24,ACEVILLE PTE.LTD.,AS132203,JP,Tokyo,,favicon
 43.167.171.3,9091,2026-11-18,2026-11-26,2026-10-27T20:24:05.524785,CyberStrikeAI,,,ACEVILLE PTE.LTD.,AS132203,JP,Tokyo,,favicon
-43.213.222.220,443,2026-11-18,2026-11-26,2026-11-04T00:54:05.355319,CyberStrikeAI,nginx,,Infrastructure,AS16509,TW,Taipei,"strike.tangbyte.com,ec2-43-213-222-220.ap-east-2.compute.amazonaws.com",favicon
-43.225.57.139,8080,2026-11-18,2026-11-26,2026-11-20T11:41:53.845421,CyberStrikeAI,CyberStrikeAI,1.7.24,EDGE CLOUD NETWORK TECHNOLOGY PTE LTD,AS62468,HK,Tseung Kwan O,,favicon
-43.251.116.98,8080,2026-11-22,2026-11-26,2026-11-21T07:28:55.885071,CyberStrikeAI,CyberStrikeAI,1.7.24,Dragon Network Int'l Co. Ltd,AS62468,US,Greenville,,favicon
-45.85.76.88,8080,2026-11-21,2026-11-26,2026-11-20T08:36:38.839307,CyberStrikeAI,CyberStrikeAI,1.7.20,Sleep is A Big Boss,AS55933,HK,Tseung Kwan O,,favicon
-45.87.53.6,8080,2026-11-19,2026-11-26,2026-11-25T19:57:22.217405,CyberStrikeAI,CyberStrikeAI,1.7.24,STAR FAX GROUP PTE LTD,AS142637,SG,Singapore,,favicon
-45.112.206.54,55000,2026-11-25,2026-11-26,2026-11-25T14:40:19.803236,CyberStrikeAI,CyberStrikeAI,1.7.24,TELEGLOBAL COMMUNICATION SERVICES LIMITED,AS133115,HK,Tseung Kwan O,,favicon
-45.125.32.79,8080,2026-11-18,2026-11-26,2026-11-03T16:24:50.586016,社内セキュリティ統合ポータル,,,Cloudie Limited,AS55933,HK,Tseung Kwan O,spk.laws.ms,favicon
-45.152.65.210,8080,2026-11-18,2026-11-26,2026-11-15T19:09:29.885876,CyberStrikeAI,CyberStrikeAI,1.7.22,XNNET LIMITED,AS139659,HK,Tseung Kwan O,,favicon
-45.192.109.51,8083,2026-11-18,2026-11-26,2026-11-19T12:05:31.381074,CyberStrikeAI,CyberStrikeAI,1.7.19,cognetcloud INC,AS401701,HK,Tseung Kwan O,,favicon
-45.192.110.116,8080,2026-11-21,2026-11-26,2026-11-20T16:56:56.911837,CyberStrikeAI,CyberStrikeAI,1.8.0,cognetcloud INC,AS401701,HK,Tseung Kwan O,,favicon
-45.192.212.85,8080,2026-11-18,2026-11-26,2026-11-17T15:49:54.890668,CyberStrikeAI,CyberStrikeAI,1.7.15,Antbox Networks Limited,AS138995,HK,Hong Kong,,favicon
-45.204.71.48,8080,2026-11-18,2026-11-26,2026-11-14T06:46:48.680846,CyberStrikeAI,CyberStrikeAI,1.7.24,Zillion Network Inc.,AS54801,US,San Jose,,favicon
-45.204.71.85,8080,2026-11-18,2026-11-26,2026-11-23T16:10:06.816450,CyberStrikeAI,CyberStrikeAI,1.7.24,Zillion Network Inc.,AS54801,US,San Jose,,favicon
-45.205.6.178,8081,2026-11-20,2026-11-26,2026-11-20T00:36:30.570565,CyberStrikeAI,CyberStrikeAI,2.5,FD-298-8796 - FASTNET DATA INC,AS8796,ZA,Cape Town,,favicon
-45.207.215.236,8080,2026-11-18,2026-11-26,2026-11-11T18:18:41.174291,CyberStrikeAI,CyberStrikeAI,1.7.18,cognetcloud INC,AS401701,HK,Tseung Kwan O,,favicon
-45.207.226.234,443,2026-11-18,2026-11-26,2026-11-17T21:28:15.421896,CyberStrikeAI,CyberStrikeAI,1.7.24,Zillion Network Inc.,AS54801,US,Los Angeles,,favicon
-45.227.255.24,8085,2026-11-18,2026-11-26,2026-11-04T05:22:58.736129,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.26,8085,2026-11-18,2026-11-26,2026-11-04T05:04:55.328012,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.31,8085,2026-11-18,2026-11-26,2026-11-04T13:47:40.481333,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.34,8085,2026-11-18,2026-11-26,2026-11-04T05:11:58.147146,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.35,8085,2026-11-18,2026-11-26,2026-11-04T03:08:38.677055,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.40,8085,2026-11-18,2026-11-26,2026-11-06T10:07:19.470808,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.45,8085,2026-11-18,2026-11-26,2026-11-04T17:42:43.308068,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Tilburg,,favicon
-45.227.255.53,8085,2026-11-18,2026-11-26,2026-11-04T04:56:55.887954,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.54,8085,2026-11-18,2026-11-26,2026-11-05T18:00:24.621653,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.58,8085,2026-11-18,2026-11-26,2026-11-04T04:35:06.119911,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.60,8085,2026-11-18,2026-11-26,2026-10-29T16:38:26.489829,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.61,8085,2026-11-18,2026-11-26,2026-10-28T16:17:13.131080,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.62,8085,2026-11-18,2026-11-26,2026-11-04T05:01:57.213951,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.64,8085,2026-11-18,2026-11-26,2026-11-04T05:20:07.441430,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.69,8085,2026-11-18,2026-11-26,2026-11-03T15:31:19.636376,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.72,8085,2026-11-18,2026-11-26,2026-11-04T05:03:54.670569,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.74,8085,2026-11-18,2026-11-26,2026-11-04T05:08:29.613720,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.77,8085,2026-11-18,2026-11-26,2026-11-03T13:35:29.610759,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.82,8085,2026-11-18,2026-11-26,2026-11-04T05:08:44.610841,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.85,8085,2026-11-18,2026-11-26,2026-11-05T09:01:18.625817,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.90,8085,2026-11-18,2026-11-26,2026-11-05T02:17:31.337384,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.145,8085,2026-11-18,2026-11-26,2026-11-25T00:20:07.258974,CyberStrikeAI,CyberStrikeAI,1.7.23,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.145,9090,2026-11-25,2026-11-26,2026-11-24T11:07:07.421440,CyberStrikeAI,CyberStrikeAI,1.7.20,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.249,8085,2026-11-18,2026-11-26,2026-11-04T05:06:23.432285,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.250,8085,2026-11-18,2026-11-26,2026-11-04T05:10:21.883196,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-45.227.255.253,8085,2026-11-18,2026-11-26,2026-11-04T05:21:59.522808,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
-47.84.33.107,8080,2026-11-18,2026-11-26,2026-11-17T21:33:06.635436,CyberStrikeAI,CyberStrikeAI,1.8.0,Alibaba Cloud LLC,AS45102,SG,Singapore,,favicon
-47.117.89.31,80,2026-11-18,2026-11-26,2026-11-04T16:23:29.413245,CyberStrikeAI,,,"Aliyun Computing Co., LTD",AS37963,CN,Shanghai,,favicon
+43.213.222.220,443,2026-11-18,2026-11-27,2026-11-04T00:54:05.355319,CyberStrikeAI,nginx,,Infrastructure,AS16509,TW,Taipei,"strike.tangbyte.com,ec2-43-213-222-220.ap-east-2.compute.amazonaws.com",favicon
+43.225.57.139,8080,2026-11-18,2026-11-27,2026-11-20T11:41:53.845421,CyberStrikeAI,CyberStrikeAI,1.7.24,EDGE CLOUD NETWORK TECHNOLOGY PTE LTD,AS62468,HK,Tseung Kwan O,,favicon
+43.251.116.98,8080,2026-11-22,2026-11-27,2026-11-21T07:28:55.885071,CyberStrikeAI,CyberStrikeAI,1.7.24,Dragon Network Int'l Co. Ltd,AS62468,US,Greenville,,favicon
+45.85.76.88,8080,2026-11-21,2026-11-27,2026-11-20T08:36:38.839307,CyberStrikeAI,CyberStrikeAI,1.7.20,Sleep is A Big Boss,AS55933,HK,Tseung Kwan O,,favicon
+45.87.53.6,8080,2026-11-19,2026-11-27,2026-11-25T19:57:22.217405,CyberStrikeAI,CyberStrikeAI,1.7.24,STAR FAX GROUP PTE LTD,AS142637,SG,Singapore,,favicon
+45.112.206.54,55000,2026-11-25,2026-11-27,2026-11-26T22:16:05.331162,CyberStrikeAI,CyberStrikeAI,1.7.24,TELEGLOBAL COMMUNICATION SERVICES LIMITED,AS133115,HK,Tseung Kwan O,,favicon
+45.125.32.79,8080,2026-11-18,2026-11-27,2026-11-03T16:24:50.586016,社内セキュリティ統合ポータル,,,Cloudie Limited,AS55933,HK,Tseung Kwan O,spk.laws.ms,favicon
+45.128.220.137,8001,2026-11-22,2026-11-27,2026-11-26T21:28:28.401947,CyberStrikeAI,CyberStrikeAI,1.7.22,Greencloud LLC,AS9312,HK,Tseung Kwan O,,favicon
+45.152.65.210,8080,2026-11-18,2026-11-27,2026-11-15T19:09:29.885876,CyberStrikeAI,CyberStrikeAI,1.7.22,XNNET LIMITED,AS139659,HK,Tseung Kwan O,,favicon
+45.192.109.51,8083,2026-11-18,2026-11-27,2026-11-19T12:05:31.381074,CyberStrikeAI,CyberStrikeAI,1.7.19,cognetcloud INC,AS401701,HK,Tseung Kwan O,,favicon
+45.192.110.116,8080,2026-11-21,2026-11-27,2026-11-20T16:56:56.911837,CyberStrikeAI,CyberStrikeAI,1.8.0,cognetcloud INC,AS401701,HK,Tseung Kwan O,,favicon
+45.192.212.85,8080,2026-11-18,2026-11-27,2026-11-17T15:49:54.890668,CyberStrikeAI,CyberStrikeAI,1.7.15,Antbox Networks Limited,AS138995,HK,Hong Kong,,favicon
+45.204.71.48,8080,2026-11-18,2026-11-27,2026-11-14T06:46:48.680846,CyberStrikeAI,CyberStrikeAI,1.7.24,Zillion Network Inc.,AS54801,US,San Jose,,favicon
+45.204.71.85,8080,2026-11-18,2026-11-27,2026-11-23T16:10:06.816450,CyberStrikeAI,CyberStrikeAI,1.7.24,Zillion Network Inc.,AS54801,US,San Jose,,favicon
+45.205.6.178,8081,2026-11-20,2026-11-27,2026-11-20T00:36:30.570565,CyberStrikeAI,CyberStrikeAI,2.5,FD-298-8796 - FASTNET DATA INC,AS8796,ZA,Cape Town,,favicon
+45.207.215.236,8080,2026-11-18,2026-11-27,2026-11-11T18:18:41.174291,CyberStrikeAI,CyberStrikeAI,1.7.18,cognetcloud INC,AS401701,HK,Tseung Kwan O,,favicon
+45.207.226.234,443,2026-11-18,2026-11-27,2026-11-17T21:28:15.421896,CyberStrikeAI,CyberStrikeAI,1.7.24,Zillion Network Inc.,AS54801,US,Los Angeles,,favicon
+45.227.255.24,8085,2026-11-18,2026-11-27,2026-11-04T05:22:58.736129,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.26,8085,2026-11-18,2026-11-27,2026-11-04T05:04:55.328012,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.31,8085,2026-11-18,2026-11-27,2026-11-04T13:47:40.481333,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.34,8085,2026-11-18,2026-11-27,2026-11-04T05:11:58.147146,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.35,8085,2026-11-18,2026-11-27,2026-11-04T03:08:38.677055,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.40,8085,2026-11-18,2026-11-27,2026-11-06T10:07:19.470808,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.45,8085,2026-11-18,2026-11-27,2026-11-04T17:42:43.308068,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Tilburg,,favicon
+45.227.255.53,8085,2026-11-18,2026-11-27,2026-11-04T04:56:55.887954,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.54,8085,2026-11-18,2026-11-27,2026-11-05T18:00:24.621653,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.58,8085,2026-11-18,2026-11-27,2026-11-04T04:35:06.119911,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.60,8085,2026-11-18,2026-11-27,2026-10-29T16:38:26.489829,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.61,8085,2026-11-18,2026-11-27,2026-10-28T16:17:13.131080,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.62,8085,2026-11-18,2026-11-27,2026-11-04T05:01:57.213951,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.64,8085,2026-11-18,2026-11-27,2026-11-04T05:20:07.441430,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.69,8085,2026-11-18,2026-11-27,2026-11-03T15:31:19.636376,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.72,8085,2026-11-18,2026-11-27,2026-11-04T05:03:54.670569,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.74,8085,2026-11-18,2026-11-27,2026-11-04T05:08:29.613720,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.77,8085,2026-11-18,2026-11-27,2026-11-03T13:35:29.610759,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.82,8085,2026-11-18,2026-11-27,2026-11-04T05:08:44.610841,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.85,8085,2026-11-18,2026-11-27,2026-11-05T09:01:18.625817,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.90,8085,2026-11-18,2026-11-27,2026-11-05T02:17:31.337384,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.145,8085,2026-11-18,2026-11-27,2026-11-25T00:20:07.258974,CyberStrikeAI,CyberStrikeAI,1.7.23,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.145,9090,2026-11-25,2026-11-27,2026-11-27T01:40:58.390401,CyberStrikeAI,CyberStrikeAI,1.7.20,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.249,8085,2026-11-18,2026-11-27,2026-11-04T05:06:23.432285,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.250,8085,2026-11-18,2026-11-27,2026-11-04T05:10:21.883196,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+45.227.255.253,8085,2026-11-18,2026-11-27,2026-11-04T05:21:59.522808,CyberStrikeAI,,,Okpay Investment Company,AS43350,NL,Roosendaal,,favicon
+47.84.33.107,8080,2026-11-18,2026-11-27,2026-11-17T21:33:06.635436,CyberStrikeAI,CyberStrikeAI,1.8.0,Alibaba Cloud LLC,AS45102,SG,Singapore,,favicon
+47.117.89.31,80,2026-11-18,2026-11-27,2026-11-04T16:23:29.413245,CyberStrikeAI,,,"Aliyun Computing Co., LTD",AS37963,CN,Shanghai,,favicon
 47.128.80.192,443,2026-11-18,2026-11-26,2026-10-27T07:18:04.450972,CyberStrikeAI,,,Amazon Data Services Singapore,AS16509,SG,Singapore,ec2-47-128-80-192.ap-southeast-1.compute.amazonaws.com,favicon
-47.254.78.110,8081,2026-11-18,2026-11-26,2026-11-24T23:32:48.570378,CyberStrikeAI,CyberStrikeAI,1.7.24,Alibaba Cloud LLC,AS45102,US,Santa Clara,,favicon
-49.232.218.94,8080,2026-11-24,2026-11-26,2026-11-23T17:55:12.692749,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Beijing,,favicon
-49.234.149.226,8080,2026-11-18,2026-11-26,2026-11-25T18:10:20.531238,CyberStrikeAI,CyberStrikeAI,1.7.18,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-51.158.154.152,443,2026-11-18,2026-11-26,2026-10-28T09:51:45.403692,CyberStrikeAI,nginx,,Scaleway,AS12876,NL,Amsterdam,51-158-154-152.rev.poneytelecom.eu,favicon
+47.254.78.110,8081,2026-11-18,2026-11-27,2026-11-24T23:32:48.570378,CyberStrikeAI,CyberStrikeAI,1.7.24,Alibaba Cloud LLC,AS45102,US,Santa Clara,,favicon
+49.232.218.94,8080,2026-11-24,2026-11-27,2026-11-26T05:24:43.558618,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Beijing,,favicon
+49.234.149.226,8080,2026-11-18,2026-11-27,2026-11-25T18:10:20.531238,CyberStrikeAI,CyberStrikeAI,1.7.18,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+51.158.154.152,443,2026-11-18,2026-11-27,2026-10-28T09:51:45.403692,CyberStrikeAI,nginx,,Scaleway,AS12876,NL,Amsterdam,51-158-154-152.rev.poneytelecom.eu,favicon
 51.158.154.152,8080,2026-11-18,2026-11-26,2026-10-27T19:53:02.454484,CyberStrikeAI,nginx,,Scaleway,AS12876,NL,Amsterdam,51-158-154-152.rev.poneytelecom.eu,favicon
-64.81.30.101,8080,2026-11-18,2026-11-26,2026-11-15T04:01:18.183724,CyberStrikeAI,CyberStrikeAI,1.7.24,NetLab Global,AS979,US,San Francisco,dsl081-030-101.sfo1.dsl.speakeasy.net,favicon
-64.83.11.130,8800,2026-11-18,2026-11-26,2026-11-13T16:24:14.352130,CyberStrikeAI,CyberStrikeAI,1.7.24,NetLab Global - NA,AS979,US,Little Rock,,favicon
-68.64.178.21,8080,2026-11-18,2026-11-26,2026-11-11T08:41:15.180931,CyberStrikeAI,CyberStrikeAI,1.7.20,"PacketExchange, Inc",AS139659,HK,Hong Kong,,favicon
-68.64.180.15,8089,2026-11-18,2026-11-26,2026-11-24T09:22:49.138102,CyberStrikeAI,CyberStrikeAI,,"PacketExchange, Inc",AS139659,HK,Hong Kong,,favicon
-68.64.182.173,443,2026-11-18,2026-11-26,2026-11-19T01:25:37.109963,CyberStrikeAI,CyberStrikeAI,1.7.20,"PacketExchange, Inc",AS139659,HK,Hong Kong,,favicon
-82.29.71.160,8443,2026-11-18,2026-11-26,2026-11-18T00:28:08.210540,CyberStrikeAI,CyberStrikeAI,1.8.0,Hosteons Pte. Ltd.,AS142036,US,El Segundo,vps14859650.hosteons.net,favicon
-82.156.73.177,8080,2026-11-19,2026-11-26,2026-11-25T12:42:43.063856,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Beijing,,favicon
-82.156.154.10,8080,2026-11-18,2026-11-26,2026-11-25T18:11:52.642983,CyberStrikeAI,CyberStrikeAI,1.7.23,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Beijing,,favicon
-82.156.224.184,8443,2026-11-18,2026-11-26,2026-11-23T07:33:34.781515,CyberStrikeAI,CyberStrikeAI,1.8.1,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Beijing,,favicon
-82.157.157.54,8080,2026-11-18,2026-11-26,2026-11-23T16:40:40.147500,CyberStrikeAI,CyberStrikeAI,1.7.23,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Beijing,,favicon
-84.32.54.28,8080,2026-11-18,2026-11-26,2026-11-25T18:28:44.656293,CyberStrikeAI,CyberStrikeAI,1.7.23,Company 64d34573Gz9YjyWz,AS204770,US,Wardensville,ip-84-32-54-28.009.ptr.cherryservers.net,favicon
-84.247.137.21,8081,2026-11-18,2026-11-26,2026-11-16T22:35:53.064021,CyberStrikeAI,CyberStrikeAI,1.7.24,Contabo GmbH,AS51167,DE,Düsseldorf,vmi3081305.contaboserver.net,favicon
-85.189.58.26,443,2026-11-18,2026-11-26,2026-11-21T09:04:34.274777,CyberStrikeAI,CyberStrikeAI,1.7.18,LucidaCloud Limited,AS139659,GB,Chester,85-189-58-26.fwcs.managedbroadband.co.uk,favicon
+64.81.30.101,8080,2026-11-18,2026-11-27,2026-11-15T04:01:18.183724,CyberStrikeAI,CyberStrikeAI,1.7.24,NetLab Global,AS979,US,San Francisco,dsl081-030-101.sfo1.dsl.speakeasy.net,favicon
+64.83.11.130,8800,2026-11-18,2026-11-27,2026-11-13T16:24:14.352130,CyberStrikeAI,CyberStrikeAI,1.7.24,NetLab Global - NA,AS979,US,Little Rock,,favicon
+68.64.178.21,8080,2026-11-18,2026-11-27,2026-11-11T08:41:15.180931,CyberStrikeAI,CyberStrikeAI,1.7.20,"PacketExchange, Inc",AS139659,HK,Hong Kong,,favicon
+68.64.180.15,8089,2026-11-18,2026-11-27,2026-11-24T09:22:49.138102,CyberStrikeAI,CyberStrikeAI,,"PacketExchange, Inc",AS139659,HK,Hong Kong,,favicon
+68.64.182.173,443,2026-11-18,2026-11-27,2026-11-26T04:31:51.098402,CyberStrikeAI,CyberStrikeAI,1.7.20,"PacketExchange, Inc",AS139659,HK,Hong Kong,,favicon
+81.70.164.167,8080,2026-11-27,2026-11-27,2026-11-26T20:30:28.572648,CyberStrikeAI,CyberStrikeAI,1.7.14,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Beijing,,favicon
+82.29.71.160,8443,2026-11-18,2026-11-27,2026-11-18T00:28:08.210540,CyberStrikeAI,CyberStrikeAI,1.8.0,Hosteons Pte. Ltd.,AS142036,US,El Segundo,vps14859650.hosteons.net,favicon
+82.156.73.177,8080,2026-11-19,2026-11-27,2026-11-25T12:42:43.063856,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Beijing,,favicon
+82.156.154.10,8080,2026-11-18,2026-11-27,2026-11-26T16:53:37.135437,CyberStrikeAI,CyberStrikeAI,1.7.23,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Beijing,,favicon
+82.156.224.184,8443,2026-11-18,2026-11-27,2026-11-23T07:33:34.781515,CyberStrikeAI,CyberStrikeAI,1.8.1,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Beijing,,favicon
+82.157.157.54,8080,2026-11-18,2026-11-27,2026-11-23T16:40:40.147500,CyberStrikeAI,CyberStrikeAI,1.7.23,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Beijing,,favicon
+84.32.54.28,8080,2026-11-18,2026-11-27,2026-11-25T18:28:44.656293,CyberStrikeAI,CyberStrikeAI,1.7.23,Company 64d34573Gz9YjyWz,AS204770,US,Wardensville,ip-84-32-54-28.009.ptr.cherryservers.net,favicon
+84.247.137.21,8081,2026-11-18,2026-11-27,2026-11-16T22:35:53.064021,CyberStrikeAI,CyberStrikeAI,1.7.24,Contabo GmbH,AS51167,DE,Düsseldorf,vmi3081305.contaboserver.net,favicon
+85.137.56.190,8168,2026-11-20,2026-11-27,2026-11-27T00:23:30.703829,CyberStrikeAI,CyberStrikeAI,1.8.1,Sollutium-NL SOLLUTIUM EU Sp z.o.o.,AS43641,ES,Jerez de la Frontera,dedicated.vsys.host,favicon
+85.189.58.26,443,2026-11-18,2026-11-27,2026-11-21T09:04:34.274777,CyberStrikeAI,CyberStrikeAI,1.7.18,LucidaCloud Limited,AS139659,GB,Chester,85-189-58-26.fwcs.managedbroadband.co.uk,favicon
 85.189.58.63,8080,2026-11-24,2026-11-26,2026-11-23T02:55:52.874240,CyberStrikeAI,CyberStrikeAI,1.7.18,LucidaCloud Limited,AS139659,GB,Chester,85-189-58-63.fwcs.managedbroadband.co.uk,favicon
-91.184.250.32,8080,2026-11-21,2026-11-26,2026-11-20T03:51:04.254078,CyberStrikeAI,CyberStrikeAI,1.7.24,EE SmartApe OU,AS62212,CZ,Veselí nad Moravou,s1637342.smartape-vps.com,favicon
-91.224.92.82,8080,2026-11-18,2026-11-25,2026-11-24T22:27:20.333212,CyberStrikeAI,CyberStrikeAI,1.8.1,UAB Host Baltic,AS209605,LT,Kaunas,,favicon
-91.224.92.84,9443,2026-11-18,2026-11-26,2026-11-25T02:15:45.510291,CyberStrikeAI,CyberStrikeAI,1.7.19,UAB Host Baltic,AS209605,LT,Kaunas,srv-91-224-92-84.serveroffer.net,favicon
-93.177.77.219,8080,2026-11-18,2026-11-26,2026-11-11T18:14:29.478561,CyberStrikeAI,CyberStrikeAI,1.7.24,Sakura network limited,AS55933,HK,Tseung Kwan O,,favicon
+91.184.250.32,8080,2026-11-21,2026-11-27,2026-11-20T03:51:04.254078,CyberStrikeAI,CyberStrikeAI,1.7.24,EE SmartApe OU,AS62212,CZ,Veselí nad Moravou,s1637342.smartape-vps.com,favicon
+91.224.92.82,8080,2026-11-18,2026-11-27,2026-11-26T17:03:00.546278,CyberStrikeAI,CyberStrikeAI,1.8.1,UAB Host Baltic,AS209605,LT,Kaunas,,favicon
+91.224.92.84,9443,2026-11-18,2026-11-27,2026-11-25T02:15:45.510291,CyberStrikeAI,CyberStrikeAI,1.7.19,UAB Host Baltic,AS209605,LT,Kaunas,srv-91-224-92-84.serveroffer.net,favicon
+93.177.77.219,8080,2026-11-18,2026-11-27,2026-11-11T18:14:29.478561,CyberStrikeAI,CyberStrikeAI,1.7.24,Sakura network limited,AS55933,HK,Tseung Kwan O,,favicon
 94.154.32.171,8080,2026-11-18,2026-11-26,2026-10-27T12:16:27.629191,CyberStrikeAI,,,Individual entrepreneur Dyachenko Valentina Ivanovna,AS214961,TR,Başakşehir,,favicon
-94.191.74.235,8080,2026-11-18,2026-11-26,2026-11-10T14:28:44.177733,CyberStrikeAI,CyberStrikeAI,1.7.9,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Chongqing,,favicon
-94.191.76.54,8080,2026-11-18,2026-11-26,2026-11-17T17:00:53.069671,CyberStrikeAI,CyberStrikeAI,1.7.9,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Chongqing,,favicon
-98.142.241.240,8080,2026-11-18,2026-11-26,2026-11-12T14:45:36.723822,CyberStrikeAI,CyberStrikeAI,1.7.24,Velcom,AS979,US,Los Angeles,,favicon
-98.159.103.26,8089,2026-11-22,2026-11-26,2026-11-21T21:43:15.669057,CyberStrikeAI,CyberStrikeAI,1.8.0,IDC,AS63023,US,San Jose,static.98.159.103.26.hostname.com,favicon
-101.34.53.148,8080,2026-11-20,2026-11-26,2026-11-20T12:39:14.304887,CyberStrikeAI,CyberStrikeAI,1.7.9,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Shanghai,,favicon
-101.43.32.60,8080,2026-11-18,2026-11-26,2026-11-14T19:47:23.010083,CyberStrikeAI,CyberStrikeAI,1.7.12,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Shanghai,,favicon
-103.1.226.190,8080,2026-11-26,2026-11-26,2026-11-25T09:52:18.751403,CyberStrikeAI,CyberStrikeAI,,Netsec Limited,AS963,HK,Hong Kong,,favicon
-103.47.83.20,8080,2026-11-18,2026-11-25,2026-10-26T08:23:13.689819,CyberStrikeAI,,,"YunNan LanDui Network Technology co., LTD",AS134765,CN,Kunming,,favicon
-103.112.172.18,8443,2026-11-26,2026-11-26,2026-11-25T15:33:04.937688,CyberStrikeAI,CyberStrikeAI,1.7.24,Rainbow Network Limited,AS55933,HK,Tseung Kwan O,,favicon
-103.112.172.66,80,2026-11-26,2026-11-26,2026-11-25T19:51:26.728046,CyberStrikeAI,CyberStrikeAI,,Rainbow Network Limited,AS55933,HK,Tseung Kwan O,,favicon
-103.112.172.111,9443,2026-11-26,2026-11-26,2026-11-25T05:51:59.907291,CyberStrikeAI,CyberStrikeAI,1.7.24,Rainbow Network Limited,AS55933,HK,Tseung Kwan O,,favicon
-103.112.172.166,8080,2026-11-18,2026-11-26,2026-11-11T18:07:19.608576,CyberStrikeAI,CyberStrikeAI,1.7.24,Rainbow Network Limited,AS55933,HK,Tseung Kwan O,,favicon
-103.115.57.248,8080,2026-11-21,2026-11-26,2026-11-20T16:00:18.028494,CyberStrikeAI,CyberStrikeAI,1.7.24,Rainbow Network Limited,AS55933,HK,Hong Kong,,favicon
-103.118.199.30,8080,2026-11-22,2026-11-26,2026-11-21T19:34:48.120833,CyberStrikeAI,CyberStrikeAI,1.8.1,Rainbow Network Limited,AS55933,HK,Tseung Kwan O,,favicon
-103.118.244.232,80,2026-11-18,2026-11-26,2026-11-16T06:37:42.458254,CyberStrikeAI,CyberStrikeAI,1.7.24,Sakura Network Limited,AS55933,HK,Tseung Kwan O,,favicon
-103.118.254.61,80,2026-11-20,2026-11-26,2026-11-22T10:42:01.457279,CyberStrikeAI,CyberStrikeAI,1.8.0,Sakura Network Limited,AS55933,HK,Hong Kong,,favicon
-103.119.15.134,80,2026-11-18,2026-11-26,2026-11-15T10:44:44.589547,CyberStrikeAI,CyberStrikeAI,1.7.24,Turing Group Limited,AS140869,US,Los Angeles,,favicon
-103.144.139.185,8080,2026-11-20,2026-11-26,2026-11-19T13:19:51.926801,CyberStrikeAI,CyberStrikeAI,1.7.24,Casbay Sdn. Bhd.,AS55720,MY,Putrajaya,,favicon
-103.163.47.128,8081,2026-11-18,2026-11-26,2026-10-30T19:45:35.859145,CyberStrikeAI,,,"Inner Mongolia Ruitong Network Technology Co., Ltd",AS58519,CN,Hohhot,,favicon
-103.213.248.38,80,2026-11-18,2026-11-26,2026-11-12T22:14:37.085680,CyberStrikeAI,CyberStrikeAI,1.7.24,QY (JAPAN) LTD,AS138968,JP,Tokyo,,favicon
-103.213.248.38,443,2026-11-22,2026-11-26,2026-11-21T06:06:46.512250,CyberStrikeAI,CyberStrikeAI,1.7.24,QY (JAPAN) LTD,AS138968,JP,Tokyo,aeonaax.com,favicon
-103.213.248.62,80,2026-11-18,2026-11-26,2026-11-20T09:24:00.716919,CyberStrikeAI,CyberStrikeAI,1.7.24,QY (JAPAN) LTD,AS138968,JP,Tokyo,,favicon
-103.213.248.62,443,2026-11-18,2026-11-26,2026-11-20T04:49:22.956178,CyberStrikeAI,CyberStrikeAI,1.7.24,QY (JAPAN) LTD,AS138968,JP,Tokyo,yerenhouses.com,favicon
-103.213.248.105,80,2026-11-18,2026-11-26,2026-11-21T03:21:35.615231,CyberStrikeAI,CyberStrikeAI,1.7.24,QY (JAPAN) LTD,AS138968,JP,Tokyo,,favicon
-103.213.248.105,443,2026-11-18,2026-11-26,2026-11-22T08:25:06.949347,CyberStrikeAI,CyberStrikeAI,1.7.24,QY (JAPAN) LTD,AS138968,JP,Tokyo,qitaos.com,favicon
-103.217.253.21,8080,2026-11-21,2026-11-26,2026-11-24T22:15:51.569767,CyberStrikeAI,CyberStrikeAI,1.7.24,YouStable,AS206264,GB,Coventry,,favicon
-104.233.217.57,8888,2026-11-18,2026-11-26,2026-10-30T06:38:49.061797,CyberStrikeAI,nginx,,PEG TECH INC,AS54600,US,San Jose,,favicon
-104.244.89.232,8080,2026-11-18,2026-11-26,2026-11-12T00:06:05.150277,CyberStrikeAI,CyberStrikeAI,1.7.20,Cluster Logic Inc,AS25820,US,New York City,104.244.89.232.16clouds.com,favicon
-106.13.138.234,8080,2026-11-18,2026-11-26,2026-11-18T22:52:02.411057,CyberStrikeAI,CyberStrikeAI,1.7.12,"Beijing Baidu Netcom Science and Technology Co., Ltd.",AS38365,CN,Beijing,,favicon
-106.52.103.149,8080,2026-11-20,2026-11-26,2026-11-19T23:44:51.108981,CyberStrikeAI,CyberStrikeAI,1.7.18,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
-106.53.28.109,8080,2026-11-18,2026-11-26,2026-10-30T10:39:07.303713,CyberStrikeAI,,,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
-106.55.13.72,7443,2026-11-25,2026-11-26,2026-11-24T19:45:42.606789,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
-106.55.34.199,8080,2026-11-22,2026-11-26,2026-11-24T05:29:26.360665,CyberStrikeAI,CyberStrikeAI,1.7.18,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,yaoying.xyz,favicon
-107.148.79.1,18081,2026-11-18,2026-11-26,2026-11-23T12:17:42.572793,CyberStrikeAI,CyberStrikeAI,1.7.17,PEG TECH INC,AS394432,SG,Singapore,jzh-1.thifl.com,favicon
-107.149.88.52,443,2026-11-24,2026-11-26,2026-11-25T20:11:52.312903,CyberStrikeAI,CyberStrikeAI,1.8.0,PEG TECH INC,AS398478,US,San Jose,utrcsao.shop,favicon
-107.149.107.251,443,2026-11-26,2026-11-26,2026-11-25T06:02:22.753232,CyberStrikeAI,CyberStrikeAI,1.8.0,PEG TECH INC,AS398478,US,San Jose,utrcsao.shop,favicon
-107.149.107.251,8080,2026-11-22,2026-11-26,2026-11-21T12:30:05.153959,CyberStrikeAI,CyberStrikeAI,1.8.0,PEG TECH INC,AS398478,US,San Jose,,favicon
-107.172.153.116,8080,2026-11-19,2026-11-26,2026-11-19T23:42:15.631306,CyberStrikeAI,CyberStrikeAI,1.7.22,HostPapa,AS36352,US,Buffalo,107-172-153-116-host.colocrossing.com,favicon
-107.173.42.215,8080,2026-11-18,2026-11-26,2026-11-12T11:37:12.273056,CyberStrikeAI,CyberStrikeAI,1.7.24,RackNerd LLC,AS36352,US,Buffalo,107-173-42-215-host.colocrossing.com,favicon
-107.174.144.145,8080,2026-11-18,2026-11-26,2026-11-18T15:50:09.417242,CyberStrikeAI,CyberStrikeAI,1.7.24,HostPapa,AS36352,US,Buffalo,107-174-144-145-host.colocrossing.com,favicon
-107.175.137.83,8080,2026-11-18,2026-11-26,2026-11-14T17:21:17.380381,CyberStrikeAI,CyberStrikeAI,1.7.24,HostPapa,AS36352,US,Los Angeles,107-175-137-83-host.colocrossing.com,favicon
-111.92.241.197,443,2026-11-18,2026-11-26,2026-11-22T14:25:54.433142,CyberStrikeAI,CyberStrikeAI,1.7.24,"VAPELINE TECHNOLOGY(HK).,LIMITED",AS401696,HK,Tseung Kwan O,st.dy500.cn,favicon
-111.228.35.247,8080,2026-11-18,2026-11-26,2026-11-23T14:03:04.994224,CyberStrikeAI,CyberStrikeAI,1.7.20,B block 16 layer,AS141679,CN,Shanghai,,favicon
-111.229.144.163,8080,2026-11-18,2026-11-26,2026-11-14T15:01:18.786774,CyberStrikeAI,CyberStrikeAI,1.7.23,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-111.229.203.92,8080,2026-11-18,2026-11-26,2026-11-10T12:28:36.385003,CyberStrikeAI,CyberStrikeAI,1.7.12,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-111.230.70.78,8080,2026-11-18,2026-11-26,2026-11-22T13:23:18.916055,CyberStrikeAI,CyberStrikeAI,1.7.20,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
-111.230.148.147,80,2026-11-18,2026-11-26,2026-11-13T21:47:13.881989,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
-111.231.63.109,8083,2026-11-18,2026-11-26,2026-11-19T12:09:39.131672,CyberStrikeAI,CyberStrikeAI,1.8.0,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-112.121.177.221,8080,2026-11-20,2026-11-26,2026-11-19T16:23:08.405315,CyberStrikeAI,CyberStrikeAI,1.7.23,Netsec Limited,AS45753,HK,Tseung Kwan O,,favicon
-112.121.177.222,8080,2026-11-26,2026-11-26,2026-11-25T18:14:47.564686,CyberStrikeAI,CyberStrikeAI,1.8.0,Netsec Limited,AS45753,HK,Tseung Kwan O,,favicon
-112.213.110.154,8080,2026-11-18,2026-11-26,2026-11-04T00:54:03.371883,CyberStrikeAI,,,MEGA-II IDC,AS152194,HK,Hong Kong,,favicon
-112.213.124.200,443,2026-11-24,2026-11-26,2026-11-23T18:11:54.915996,CyberStrikeAI,CyberStrikeAI,1.8.0,MEGA-II IDC,AS152194,HK,Hong Kong,wa.168api.dpdns.org,favicon
-112.213.125.110,443,2026-11-24,2026-11-26,2026-11-24T00:38:31.427774,CyberStrikeAI,CyberStrikeAI,1.8.0,MEGA-II IDC,AS152194,HK,Hong Kong,wa.168api.dpdns.org,favicon
-114.66.23.31,8080,2026-11-18,2026-11-26,2026-11-24T22:12:51.517066,CyberStrikeAI,CyberStrikeAI,1.7.24,"Beijing Yunlin Network Technology Co.,Ltd",AS136188,CN,Ningbo,,favicon
-117.50.81.40,9443,2026-11-18,2026-11-26,2026-11-18T17:40:15.225483,CyberStrikeAI,CyberStrikeAI,1.7.23,Shanghai UCloud Information Technology Company Limited,AS9808,CN,Beijing,,favicon
-117.50.187.123,8080,2026-11-18,2026-11-26,2026-11-24T22:09:07.971092,CyberStrikeAI,CyberStrikeAI,1.8.0,Shanghai UCloud Information Technology Company Limited,AS23724,CN,Beijing,,favicon
+94.191.74.235,8080,2026-11-18,2026-11-27,2026-11-10T14:28:44.177733,CyberStrikeAI,CyberStrikeAI,1.7.9,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Chongqing,,favicon
+94.191.76.54,8080,2026-11-18,2026-11-27,2026-11-17T17:00:53.069671,CyberStrikeAI,CyberStrikeAI,1.7.9,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Chongqing,,favicon
+98.142.241.240,8080,2026-11-18,2026-11-27,2026-11-12T14:45:36.723822,CyberStrikeAI,CyberStrikeAI,1.7.24,Velcom,AS979,US,Los Angeles,,favicon
+98.159.103.26,8089,2026-11-22,2026-11-27,2026-11-21T21:43:15.669057,CyberStrikeAI,CyberStrikeAI,1.8.0,IDC,AS63023,US,San Jose,static.98.159.103.26.hostname.com,favicon
+101.34.53.148,8080,2026-11-20,2026-11-27,2026-11-20T12:39:14.304887,CyberStrikeAI,CyberStrikeAI,1.7.9,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Shanghai,,favicon
+101.43.32.60,8080,2026-11-18,2026-11-27,2026-11-14T19:47:23.010083,CyberStrikeAI,CyberStrikeAI,1.7.12,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Shanghai,,favicon
+103.1.226.190,8080,2026-11-26,2026-11-27,2026-11-25T09:52:18.751403,CyberStrikeAI,CyberStrikeAI,,Netsec Limited,AS963,HK,Hong Kong,,favicon
+103.112.172.18,8443,2026-11-26,2026-11-27,2026-11-25T15:33:04.937688,CyberStrikeAI,CyberStrikeAI,1.7.24,Rainbow Network Limited,AS55933,HK,Tseung Kwan O,,favicon
+103.112.172.66,80,2026-11-26,2026-11-27,2026-11-25T19:51:26.728046,CyberStrikeAI,CyberStrikeAI,,Rainbow Network Limited,AS55933,HK,Tseung Kwan O,,favicon
+103.112.172.111,9443,2026-11-26,2026-11-27,2026-11-25T05:51:59.907291,CyberStrikeAI,CyberStrikeAI,1.7.24,Rainbow Network Limited,AS55933,HK,Tseung Kwan O,,favicon
+103.112.172.166,8080,2026-11-18,2026-11-27,2026-11-11T18:07:19.608576,CyberStrikeAI,CyberStrikeAI,1.7.24,Rainbow Network Limited,AS55933,HK,Tseung Kwan O,,favicon
+103.115.57.248,8080,2026-11-21,2026-11-27,2026-11-20T16:00:18.028494,CyberStrikeAI,CyberStrikeAI,1.7.24,Rainbow Network Limited,AS55933,HK,Hong Kong,,favicon
+103.118.199.30,8080,2026-11-22,2026-11-27,2026-11-21T19:34:48.120833,CyberStrikeAI,CyberStrikeAI,1.8.1,Rainbow Network Limited,AS55933,HK,Tseung Kwan O,,favicon
+103.118.244.232,80,2026-11-18,2026-11-27,2026-11-16T06:37:42.458254,CyberStrikeAI,CyberStrikeAI,1.7.24,Sakura Network Limited,AS55933,HK,Tseung Kwan O,,favicon
+103.118.254.61,80,2026-11-20,2026-11-27,2026-11-22T10:42:01.457279,CyberStrikeAI,CyberStrikeAI,1.8.0,Sakura Network Limited,AS55933,HK,Hong Kong,,favicon
+103.119.15.134,80,2026-11-18,2026-11-27,2026-11-15T10:44:44.589547,CyberStrikeAI,CyberStrikeAI,1.7.24,Turing Group Limited,AS140869,US,Los Angeles,,favicon
+103.119.17.126,443,2026-11-27,2026-11-27,2026-11-26T17:25:59.016576,CyberStrikeAI,CyberStrikeAI,1.8.1,MisakaF Network Limited,AS55933,HK,Tseung Kwan O,"shen8588.com,www.shen8588.com,unknown.itsidc.com",favicon
+103.144.139.185,8080,2026-11-20,2026-11-27,2026-11-19T13:19:51.926801,CyberStrikeAI,CyberStrikeAI,1.7.24,Casbay Sdn. Bhd.,AS55720,MY,Putrajaya,,favicon
+103.163.47.128,8081,2026-11-18,2026-11-27,2026-10-30T19:45:35.859145,CyberStrikeAI,,,"Inner Mongolia Ruitong Network Technology Co., Ltd",AS58519,CN,Hohhot,,favicon
+103.194.104.236,8080,2026-11-27,2026-11-27,2026-11-26T13:42:10.592414,CyberStrikeAI,CyberStrikeAI,1.7.23,Antbox Networks Limited,AS138995,HK,Tseung Kwan O,,favicon
+103.213.248.38,80,2026-11-18,2026-11-27,2026-11-12T22:14:37.085680,CyberStrikeAI,CyberStrikeAI,1.7.24,QY (JAPAN) LTD,AS138968,JP,Tokyo,,favicon
+103.213.248.38,443,2026-11-22,2026-11-27,2026-11-21T06:06:46.512250,CyberStrikeAI,CyberStrikeAI,1.7.24,QY (JAPAN) LTD,AS138968,JP,Tokyo,aeonaax.com,favicon
+103.213.248.62,80,2026-11-18,2026-11-27,2026-11-20T09:24:00.716919,CyberStrikeAI,CyberStrikeAI,1.7.24,QY (JAPAN) LTD,AS138968,JP,Tokyo,,favicon
+103.213.248.62,443,2026-11-18,2026-11-27,2026-11-20T04:49:22.956178,CyberStrikeAI,CyberStrikeAI,1.7.24,QY (JAPAN) LTD,AS138968,JP,Tokyo,yerenhouses.com,favicon
+103.213.248.105,80,2026-11-18,2026-11-27,2026-11-21T03:21:35.615231,CyberStrikeAI,CyberStrikeAI,1.7.24,QY (JAPAN) LTD,AS138968,JP,Tokyo,,favicon
+103.213.248.105,443,2026-11-18,2026-11-27,2026-11-22T08:25:06.949347,CyberStrikeAI,CyberStrikeAI,1.7.24,QY (JAPAN) LTD,AS138968,JP,Tokyo,qitaos.com,favicon
+103.217.253.21,8080,2026-11-21,2026-11-27,2026-11-26T20:36:52.544268,CyberStrikeAI,CyberStrikeAI,1.7.24,YouStable,AS206264,GB,Coventry,,favicon
+104.233.217.57,8888,2026-11-18,2026-11-27,2026-10-30T06:38:49.061797,CyberStrikeAI,nginx,,PEG TECH INC,AS54600,US,San Jose,,favicon
+104.244.89.232,8080,2026-11-18,2026-11-27,2026-11-12T00:06:05.150277,CyberStrikeAI,CyberStrikeAI,1.7.20,Cluster Logic Inc,AS25820,US,New York City,104.244.89.232.16clouds.com,favicon
+106.13.138.234,8080,2026-11-18,2026-11-27,2026-11-18T22:52:02.411057,CyberStrikeAI,CyberStrikeAI,1.7.12,"Beijing Baidu Netcom Science and Technology Co., Ltd.",AS38365,CN,Beijing,,favicon
+106.52.91.14,8080,2026-11-22,2026-11-27,2026-11-26T21:34:27.032711,CyberStrikeAI,CyberStrikeAI,1.8.0,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
+106.52.103.149,8080,2026-11-20,2026-11-27,2026-11-19T23:44:51.108981,CyberStrikeAI,CyberStrikeAI,1.7.18,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
+106.53.28.109,8080,2026-11-18,2026-11-27,2026-10-30T10:39:07.303713,CyberStrikeAI,,,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
+106.55.13.72,7443,2026-11-25,2026-11-27,2026-11-24T19:45:42.606789,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
+106.55.34.199,8080,2026-11-22,2026-11-27,2026-11-24T05:29:26.360665,CyberStrikeAI,CyberStrikeAI,1.7.18,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,yaoying.xyz,favicon
+107.148.79.1,18081,2026-11-18,2026-11-27,2026-11-23T12:17:42.572793,CyberStrikeAI,CyberStrikeAI,1.7.17,PEG TECH INC,AS394432,SG,Singapore,jzh-1.thifl.com,favicon
+107.149.88.52,443,2026-11-24,2026-11-27,2026-11-25T20:11:52.312903,CyberStrikeAI,CyberStrikeAI,1.8.0,PEG TECH INC,AS398478,US,San Jose,utrcsao.shop,favicon
+107.149.107.251,443,2026-11-26,2026-11-27,2026-11-25T06:02:22.753232,CyberStrikeAI,CyberStrikeAI,1.8.0,PEG TECH INC,AS398478,US,San Jose,utrcsao.shop,favicon
+107.149.107.251,8080,2026-11-22,2026-11-27,2026-11-21T12:30:05.153959,CyberStrikeAI,CyberStrikeAI,1.8.0,PEG TECH INC,AS398478,US,San Jose,,favicon
+107.172.153.116,8080,2026-11-19,2026-11-27,2026-11-19T23:42:15.631306,CyberStrikeAI,CyberStrikeAI,1.7.22,HostPapa,AS36352,US,Buffalo,107-172-153-116-host.colocrossing.com,favicon
+107.173.42.215,8080,2026-11-18,2026-11-27,2026-11-12T11:37:12.273056,CyberStrikeAI,CyberStrikeAI,1.7.24,RackNerd LLC,AS36352,US,Buffalo,107-173-42-215-host.colocrossing.com,favicon
+107.174.144.145,8080,2026-11-18,2026-11-27,2026-11-18T15:50:09.417242,CyberStrikeAI,CyberStrikeAI,1.7.24,HostPapa,AS36352,US,Buffalo,107-174-144-145-host.colocrossing.com,favicon
+107.175.137.83,8080,2026-11-18,2026-11-27,2026-11-14T17:21:17.380381,CyberStrikeAI,CyberStrikeAI,1.7.24,HostPapa,AS36352,US,Los Angeles,107-175-137-83-host.colocrossing.com,favicon
+107.182.24.234,8080,2026-11-27,2026-11-27,2026-11-26T18:29:29.688964,CyberStrikeAI,CyberStrikeAI,1.7.18,Cluster Logic Inc,AS25820,US,Los Angeles,showtime12,favicon
+111.92.241.197,443,2026-11-18,2026-11-27,2026-11-22T14:25:54.433142,CyberStrikeAI,CyberStrikeAI,1.7.24,"VAPELINE TECHNOLOGY(HK).,LIMITED",AS401696,HK,Tseung Kwan O,st.dy500.cn,favicon
+111.228.35.247,8080,2026-11-18,2026-11-27,2026-11-23T14:03:04.994224,CyberStrikeAI,CyberStrikeAI,1.7.20,B block 16 layer,AS141679,CN,Shanghai,,favicon
+111.229.144.163,8080,2026-11-18,2026-11-27,2026-11-27T03:05:02.529986,,,,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+111.229.203.92,8080,2026-11-18,2026-11-27,2026-11-10T12:28:36.385003,CyberStrikeAI,CyberStrikeAI,1.7.12,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+111.230.70.78,8080,2026-11-18,2026-11-27,2026-11-26T23:43:06.168785,CyberStrikeAI,CyberStrikeAI,1.7.20,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
+111.230.148.147,80,2026-11-18,2026-11-27,2026-11-13T21:47:13.881989,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
+111.231.63.109,8083,2026-11-18,2026-11-27,2026-11-19T12:09:39.131672,CyberStrikeAI,CyberStrikeAI,1.8.0,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+112.121.177.221,8080,2026-11-20,2026-11-27,2026-11-19T16:23:08.405315,CyberStrikeAI,CyberStrikeAI,1.7.23,Netsec Limited,AS45753,HK,Tseung Kwan O,,favicon
+112.121.177.222,8080,2026-11-26,2026-11-27,2026-11-26T20:33:35.062272,CyberStrikeAI,CyberStrikeAI,1.8.0,Netsec Limited,AS45753,HK,Tseung Kwan O,,favicon
+112.213.110.154,8080,2026-11-18,2026-11-27,2026-11-04T00:54:03.371883,CyberStrikeAI,,,MEGA-II IDC,AS152194,HK,Hong Kong,,favicon
+112.213.124.200,443,2026-11-24,2026-11-27,2026-11-23T18:11:54.915996,CyberStrikeAI,CyberStrikeAI,1.8.0,MEGA-II IDC,AS152194,HK,Hong Kong,wa.168api.dpdns.org,favicon
+112.213.125.110,443,2026-11-24,2026-11-27,2026-11-24T00:38:31.427774,CyberStrikeAI,CyberStrikeAI,1.8.0,MEGA-II IDC,AS152194,HK,Hong Kong,wa.168api.dpdns.org,favicon
+114.66.23.31,8080,2026-11-18,2026-11-27,2026-11-26T20:29:57.578325,CyberStrikeAI,CyberStrikeAI,1.7.24,"Beijing Yunlin Network Technology Co.,Ltd",AS136188,CN,Ningbo,,favicon
+115.191.1.104,443,2026-11-18,2026-11-27,2026-11-26T06:25:21.316885,CyberStrikeAI,CyberStrikeAI,1.7.24,"Beijing Volcano Engine Technology Co., Ltd.",AS137718,CN,Beijing,,favicon
+117.50.81.40,9443,2026-11-18,2026-11-27,2026-11-18T17:40:15.225483,CyberStrikeAI,CyberStrikeAI,1.7.23,Shanghai UCloud Information Technology Company Limited,AS9808,CN,Beijing,,favicon
+117.50.187.123,8080,2026-11-18,2026-11-27,2026-11-24T22:09:07.971092,CyberStrikeAI,CyberStrikeAI,1.8.0,Shanghai UCloud Information Technology Company Limited,AS23724,CN,Beijing,,favicon
 117.72.26.79,8080,2026-11-19,2026-11-26,2026-11-25T18:13:26.728267,CyberStrikeAI,CyberStrikeAI,1.7.22,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",AS141679,CN,Beijing,,favicon
-117.72.123.49,443,2026-11-18,2026-11-26,2026-11-17T20:30:07.281752,CyberStrikeAI,CyberStrikeAI,1.7.23,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",AS141679,CN,Tianjin,,favicon
+117.72.123.49,443,2026-11-18,2026-11-27,2026-11-17T20:30:07.281752,CyberStrikeAI,CyberStrikeAI,1.7.23,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",AS141679,CN,Tianjin,,favicon
 117.72.157.58,8080,2026-11-18,2026-11-26,2026-11-25T20:08:34.365695,CyberStrikeAI,CyberStrikeAI,1.7.24,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",AS141679,CN,Beijing,,favicon
 117.72.223.114,8080,2026-11-26,2026-11-26,2026-11-25T16:43:48.482764,CyberStrikeAI,CyberStrikeAI,1.7.17,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",AS141679,CN,Tianjin,,favicon
+117.78.2.10,8080,2026-11-19,2026-11-27,2026-11-26T16:57:45.697698,CyberStrikeAI,CyberStrikeAI,1.7.24,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),AS55990,CN,Beijing,ecs-117-78-2-10.compute.hwclouds-dns.com,favicon
 118.24.71.113,8080,2026-11-19,2026-11-26,2026-11-24T22:13:20.534246,CyberStrikeAI,CyberStrikeAI,1.7.20,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Chengdu,,favicon
-118.196.68.175,8080,2026-11-24,2026-11-26,2026-11-23T20:42:53.446281,CyberStrikeAI,CyberStrikeAI,1.7.23,"Beijing Volcano Engine Technology Co., Ltd.",AS4811,CN,Shanghai,,favicon
-119.45.45.211,8080,2026-11-18,2026-11-25,2026-10-26T19:31:11.406943,CyberStrikeAI,,,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Nanjing,,favicon
-119.91.45.82,8080,2026-11-21,2026-11-26,2026-11-20T15:35:28.105034,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
-120.46.48.45,8080,2026-11-18,2026-11-26,2026-11-03T14:38:56.287474,CyberStrikeAI,,,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),AS55990,CN,Beijing,ecs-120-46-48-45.compute.hwclouds-dns.com,favicon
-121.40.47.149,80,2026-11-18,2026-11-26,2026-11-25T20:10:38.089225,CyberStrikeAI,CyberStrikeAI,1.7.20,"Aliyun Computing Co., LTD",AS37963,CN,Hangzhou,,favicon
-121.40.219.217,8080,2026-11-21,2026-11-26,2026-11-20T03:53:12.893932,CyberStrikeAI,CyberStrikeAI,1.7.22,"Aliyun Computing Co., LTD",AS37963,CN,Hangzhou,,favicon
-122.9.186.9,18081,2026-11-18,2026-11-26,2026-11-10T17:00:26.722172,CyberStrikeAI,CyberStrikeAI,1.7.19,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),AS4812,CN,Shanghai,ecs-122-9-186-9.compute.hwclouds-dns.com,favicon
-122.51.55.210,8080,2026-11-18,2026-11-26,2026-10-31T00:45:26.192999,CyberStrikeAI,,,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-122.51.82.195,8123,2026-11-18,2026-11-26,2026-11-24T02:27:56.773073,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-122.51.126.193,8080,2026-11-20,2026-11-26,2026-11-19T10:03:42.548177,CyberStrikeAI,CyberStrikeAI,,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-123.206.118.45,8080,2026-11-18,2026-11-26,2026-11-14T20:32:25.153304,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-123.207.240.11,80,2026-11-18,2026-11-26,2026-11-23T12:55:10.624917,CyberStrikeAI,CyberStrikeAI,1.7.20,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
+118.196.68.175,8080,2026-11-24,2026-11-27,2026-11-23T20:42:53.446281,CyberStrikeAI,CyberStrikeAI,1.7.23,"Beijing Volcano Engine Technology Co., Ltd.",AS4811,CN,Shanghai,,favicon
+119.91.45.82,8080,2026-11-21,2026-11-27,2026-11-20T15:35:28.105034,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
+120.46.48.45,8080,2026-11-18,2026-11-27,2026-11-03T14:38:56.287474,CyberStrikeAI,,,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),AS55990,CN,Beijing,ecs-120-46-48-45.compute.hwclouds-dns.com,favicon
+121.40.47.149,80,2026-11-18,2026-11-27,2026-11-25T20:10:38.089225,CyberStrikeAI,CyberStrikeAI,1.7.20,"Aliyun Computing Co., LTD",AS37963,CN,Hangzhou,,favicon
+121.40.219.217,8080,2026-11-21,2026-11-27,2026-11-20T03:53:12.893932,CyberStrikeAI,CyberStrikeAI,1.7.22,"Aliyun Computing Co., LTD",AS37963,CN,Hangzhou,,favicon
+121.127.254.170,8080,2026-11-27,2026-11-27,2026-11-26T14:03:01.424876,CyberStrikeAI,CyberStrikeAI,1.7.24,MEGA-II IDC,AS152194,HK,Hong Kong,,favicon
+122.9.186.9,18081,2026-11-18,2026-11-27,2026-11-10T17:00:26.722172,CyberStrikeAI,CyberStrikeAI,1.7.19,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),AS4812,CN,Shanghai,ecs-122-9-186-9.compute.hwclouds-dns.com,favicon
+122.51.55.210,8080,2026-11-18,2026-11-27,2026-10-31T00:45:26.192999,CyberStrikeAI,,,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+122.51.82.195,8123,2026-11-18,2026-11-27,2026-11-24T02:27:56.773073,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+122.51.126.193,8080,2026-11-20,2026-11-27,2026-11-19T10:03:42.548177,CyberStrikeAI,CyberStrikeAI,,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+123.206.118.45,8080,2026-11-18,2026-11-27,2026-11-14T20:32:25.153304,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+123.207.240.11,80,2026-11-18,2026-11-27,2026-11-23T12:55:10.624917,CyberStrikeAI,CyberStrikeAI,1.7.20,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
 124.221.22.98,8080,2026-11-18,2026-11-26,2026-11-25T18:10:10.468256,CyberStrikeAI,CyberStrikeAI,1.7.17,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-124.221.73.132,8080,2026-11-18,2026-11-26,2026-11-18T12:17:24.249907,CyberStrikeAI,CyberStrikeAI,1.7.17,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-124.221.73.132,8081,2026-11-18,2026-11-26,2026-11-24T09:02:26.673326,CyberStrikeAI,CyberStrikeAI,1.7.17,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-124.221.210.109,8080,2026-11-18,2026-11-26,2026-11-24T22:07:39.858670,CyberStrikeAI,CyberStrikeAI,1.7.23,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-124.221.250.143,443,2026-11-18,2026-11-26,2026-11-24T21:44:42.925162,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-124.222.77.133,8080,2026-11-18,2026-11-26,2026-10-28T22:50:04.599023,CyberStrikeAI,,,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-124.223.76.60,8080,2026-11-18,2026-11-26,2026-11-21T01:49:57.928684,CyberStrikeAI,CyberStrikeAI,1.7.23,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-128.1.49.187,443,2026-11-18,2026-11-26,2026-10-29T21:17:50.624738,CyberStrikeAI,,,UCLOUD,AS135377,JP,Tokyo,,favicon
-129.150.46.86,2053,2026-11-20,2026-11-26,2026-11-19T09:14:58.014600,CyberStrikeAI,CyberStrikeAI,1.8.0,Oracle Corporation,AS31898,SG,Kampong Loyang,,favicon
-129.211.7.207,18080,2026-11-18,2026-11-26,2026-11-15T04:23:36.379071,CyberStrikeAI,CyberStrikeAI,1.7.17,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Shanghai,,favicon
-129.213.105.229,8443,2026-11-22,2026-11-26,2026-11-22T05:14:39.535602,CyberStrikeAI,CyberStrikeAI,1.7.24,Oracle Public Cloud,AS31898,US,Ashburn,pentagi.koloa.top,favicon
-129.226.71.134,8080,2026-11-18,2026-11-26,2026-11-17T16:41:28.185248,CyberStrikeAI,CyberStrikeAI,1.7.20,"Tencent Building, Kejizhongyi Avenue",AS132203,HK,Hong Kong,,favicon
-129.226.198.200,9999,2026-11-18,2026-11-26,2026-11-24T01:52:15.413368,CyberStrikeAI,CyberStrikeAI,1.7.24,ACEVILLE PTE.LTD.,AS132203,SG,Singapore,,favicon
-130.94.45.16,443,2026-11-18,2026-11-26,2026-11-17T07:24:07.553737,CyberStrikeAI,CyberStrikeAI,1.7.23-restricted-evaluation,LIGHT NODE LIMITED,AS154177,US,Englewood,,favicon
-134.122.132.28,443,2026-11-26,2026-11-26,2026-11-25T13:20:47.285962,CyberStrikeAI,CyberStrikeAI,1.8.0,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,wa.168api.dpdns.org,favicon
-134.122.132.64,8080,2026-11-18,2026-11-26,2026-11-10T19:04:02.699012,CyberStrikeAI,CyberStrikeAI,1.7.24,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,,favicon
-134.122.135.116,8080,2026-11-24,2026-11-26,2026-11-24T01:24:49.496620,CyberStrikeAI,CyberStrikeAI,1.8.0,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,,favicon
-134.122.135.120,8080,2026-11-20,2026-11-26,2026-11-23T20:35:16.851885,CyberStrikeAI,CyberStrikeAI,1.8.0,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,,favicon
-134.122.154.247,8080,2026-11-18,2026-11-26,2026-11-11T22:26:52.833570,CyberStrikeAI,CyberStrikeAI,1.7.23,CTG Server Ltd.,AS152194,JP,Tokyo,,favicon
-134.175.89.67,8080,2026-11-25,2026-11-26,2026-11-24T08:10:51.988403,CyberStrikeAI,CyberStrikeAI,1.7.17,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Guangzhou,,favicon
-137.220.185.191,8080,2026-11-26,2026-11-26,2026-11-25T19:53:25.160619,CyberStrikeAI,CyberStrikeAI,,CTG Server Ltd.,AS152194,JP,Tokyo,,favicon
-138.226.247.131,8168,2026-11-18,2026-11-26,2026-11-23T02:54:03.040464,CyberStrikeAI,CyberStrikeAI,1.7.22,Sollutium-NL SOLLUTIUM EU Sp z.o.o.,AS43641,CH,Zürich,solaaeon.foremostcm.com,favicon
-138.249.133.120,8083,2026-11-18,2026-11-26,2026-11-19T11:58:28.884357,CyberStrikeAI,CyberStrikeAI,1.7.17,Costel Savulescu,AS63023,FI,Helsinki,vm16761.bit.hosting,favicon
-139.186.20.56,8080,2026-11-18,2026-11-26,2026-11-15T11:16:15.766239,CyberStrikeAI,CyberStrikeAI,1.7.9,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Chongqing,,favicon
-139.186.179.53,8080,2026-11-19,2026-11-26,2026-11-18T19:06:49.776358,CyberStrikeAI,CyberStrikeAI,1.7.9,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Chongqing,,favicon
-139.186.180.69,8080,2026-11-18,2026-11-26,2026-11-11T12:36:25.730653,CyberStrikeAI,CyberStrikeAI,1.7.9,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Chongqing,,favicon
-140.210.9.243,8080,2026-11-18,2026-11-25,2026-10-26T10:58:10.993232,CyberStrikeAI,,,HanMing Group Limited,AS134765,CN,Beijing,,favicon
-142.248.139.61,8080,2026-11-18,2026-11-26,2026-11-19T23:34:15.079715,CyberStrikeAI,CyberStrikeAI,1.7.24,"HONG KONG COMMUNICATIONS INTERNATIONAL CO.,LIMITED",AS137535,,,,favicon
-147.189.161.66,8080,2026-11-18,2026-11-26,2026-11-14T14:53:55.011912,CyberStrikeAI,CyberStrikeAI,1.7.24,Jerng Yue Lee trading as Evoxt Enterprise,AS212083,US,Los Angeles,,favicon
-149.88.80.98,8080,2026-11-22,2026-11-26,2026-11-24T17:38:18.618131,CyberStrikeAI,CyberStrikeAI,1.7.24,"Cogent Communications, LLC",AS401696,HK,Tseung Kwan O,,favicon
-149.104.24.229,8081,2026-11-18,2026-11-26,2026-11-24T23:34:10.938838,CyberStrikeAI,CyberStrikeAI,1.7.9,STARCLOUD GLOBAL PTE. LTD.,AS139659,HK,Harmony Garden,,favicon
-149.104.31.191,8080,2026-11-19,2026-11-26,2026-11-25T18:13:44.068090,CyberStrikeAI,CyberStrikeAI,1.8.1,STARCLOUD GLOBAL PTE. LTD.,AS139659,HK,Harmony Garden,,favicon
-149.129.253.229,8080,2026-11-20,2026-11-26,2026-11-19T18:03:58.991344,CyberStrikeAI,CyberStrikeAI,1.7.18,"21/F, Ciputra World 1 (DBS Tower), JalanProf. DR. Satrio Kav 3-5, Jakarta 12940, Indonesia",AS45102,ID,Jakarta,,favicon
-150.158.158.56,8080,2026-11-18,2026-11-25,2026-11-14T22:00:05.484418,CyberStrikeAI,CyberStrikeAI,1.7.18,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Shanghai,,favicon
-151.243.126.16,8080,2026-11-23,2026-11-26,2026-11-25T00:43:21.432897,CyberStrikeAI,CyberStrikeAI,1.7.24,Company 683558afZaszR5rt,AS22160,NL,Enschede,,favicon
-152.32.189.145,9797,2026-11-18,2026-11-25,2026-11-24T12:15:27.539018,CyberStrikeAI,CyberStrikeAI,1.7.24,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,AS135377,HK,Hong Kong,,favicon
-152.175.230.140,8080,2026-11-18,2026-11-26,2026-11-15T05:35:21.710113,CyberStrikeAI,CyberStrikeAI,1.7.24,SAKURA LINK LIMITED,AS154321,CL,Santiago,Hosted-by.sakura.as,favicon
-154.12.30.12,8080,2026-11-18,2026-11-26,2026-11-25T11:15:11.203930,AI智能测试平台,CyberStrikeAI,1.7.18,"Cogent Communications, LLC",AS401696,HK,Tseung Kwan O,,favicon
-154.12.94.78,8080,2026-11-18,2026-11-26,2026-11-25T19:58:13.951353,CyberStrikeAI,CyberStrikeAI,1.7.24,"Cogent Communications, LLC",AS402506,US,Los Angeles,,favicon
-154.23.165.17,8080,2026-11-18,2026-11-26,2026-11-14T20:15:49.139959,CyberStrikeAI,CyberStrikeAI,1.7.24,KURUN CLOUD INC,AS8796,US,Los Angeles,,favicon
-154.81.166.35,8080,2026-11-19,2026-11-26,2026-11-20T17:59:15.974872,CyberStrikeAI,CyberStrikeAI,1.8.0,Zillion Network Inc.,AS54801,US,San Jose,,favicon
-154.84.17.148,80,2026-11-18,2026-11-26,2026-11-19T10:25:20.711210,CyberStrikeAI,CyberStrikeAI,1.7.24,"Cloudflare London, LLC",AS209242,JP,Tokyo,,favicon
-154.84.17.148,8080,2026-11-25,2026-11-26,2026-11-24T21:06:12.608972,CyberStrikeAI,CyberStrikeAI,1.7.24,"Cloudflare London, LLC",AS209242,JP,Tokyo,,favicon
-154.84.17.213,443,2026-11-18,2026-11-26,2026-11-24T13:33:58.107449,CyberStrikeAI,CyberStrikeAI,1.7.24,"Cloudflare London, LLC",AS209242,JP,Tokyo,10086.jp,favicon
-154.86.0.72,8080,2026-11-18,2026-11-26,2026-11-12T08:14:18.793027,CyberStrikeAI,CyberStrikeAI,1.7.24,"HONG KONG LIGHTLAYER TECHNOLOGY CO., LIMITED",AS139646,HK,Hong Kong,,favicon
-154.86.0.81,8080,2026-11-18,2026-11-26,2026-11-14T17:38:10.533437,CyberStrikeAI,CyberStrikeAI,1.7.24,"HONG KONG LIGHTLAYER TECHNOLOGY CO., LIMITED",AS139646,HK,Hong Kong,,favicon
-154.198.48.88,8080,2026-11-18,2026-11-26,2026-11-14T19:09:37.986132,CyberStrikeAI,CyberStrikeAI,1.7.24,Antbox Networks Limited,AS138995,HK,Tseung Kwan O,,favicon
-154.211.92.219,8080,2026-11-26,2026-11-26,2026-11-25T19:59:16.732104,CyberStrikeAI,CyberStrikeAI,1.7.24,Tcloudnet,AS399077,US,San Jose,,favicon
-154.219.101.50,443,2026-11-18,2026-11-26,2026-11-24T16:38:29.767880,CyberStrikeAI,CyberStrikeAI,1.7.12,I LAYER LIMITED,AS137899,HK,Tseung Kwan O,cs.113438.xyz,favicon
-154.219.118.126,443,2026-11-18,2026-11-26,2026-11-25T18:37:32.786021,HNkejiAI,CyberStrikeAI,1.7.24,I LAYER LIMITED,AS137899,HK,Tseung Kwan O,www.ahshop.eu.cc,favicon
-154.219.118.126,8080,2026-11-18,2026-11-26,2026-11-21T01:41:43.540885,HNkejiAI,CyberStrikeAI,1.7.24,I LAYER LIMITED,AS137899,HK,Tseung Kwan O,,favicon
-156.225.25.222,8443,2026-11-18,2026-11-26,2026-11-20T22:34:17.694850,CyberStrikeAI,CyberStrikeAI,1.7.24,cognetcloud INC,AS401701,HK,Tseung Kwan O,,favicon
-156.233.235.164,8080,2026-11-20,2026-11-26,2026-11-24T05:11:52.508791,网刃 · 指挥台,CyberStrikeAI,,I LAYER LIMITED,AS137899,US,New York City,,favicon
-156.238.235.191,8085,2026-11-18,2026-11-26,2026-11-22T17:59:53.844151,CyberStrikeAI,CyberStrikeAI,1.7.20,cognetcloud INC,AS401701,HK,Tseung Kwan O,,favicon
-156.239.242.8,443,2026-11-18,2026-11-25,2026-11-06T23:07:10.331924,CyberStrikeAI,nginx,1.18.0,VpsQuan L.L.C.,AS62468,US,Wardensville,,favicon
-156.240.236.10,18443,2026-11-21,2026-11-26,2026-11-25T06:41:47.106617,CyberStrikeAI,CyberStrikeAI,1.7.24,Tcloudnet,AS399077,HK,Tseung Kwan O,,favicon
-156.247.40.47,8080,2026-11-18,2026-11-26,2026-11-13T01:45:16.223629,CyberStrikeAI,CyberStrikeAI,1.7.24,"RedLuff, LLC",AS401739,HK,Hong Kong,,favicon
-158.220.104.61,8080,2026-11-18,2026-11-26,2026-11-14T19:13:30.648135,CyberStrikeAI,CyberStrikeAI,1.7.24,Contabo GmbH,AS51167,DE,Köln,vmi3423772.contaboserver.net,favicon
-158.220.114.59,443,2026-11-19,2026-11-26,2026-11-19T01:59:14.560119,CyberStrikeAI,CyberStrikeAI,1.7.17,Contabo GmbH,AS51167,DE,Düsseldorf,vmi3746447.contaboserver.net,favicon
-160.187.240.246,8080,2026-11-24,2026-11-25,2026-11-23T23:07:36.811020,CyberStrikeAI,CyberStrikeAI,1.7.22,NETVN Software Company Limited,AS135983,VN,Ho Chi Minh City,,favicon
-160.202.230.105,8080,2026-11-18,2026-11-26,2026-11-20T11:50:25.964266,CyberStrikeAI,CyberStrikeAI,1.7.17,"Hubei Feixun Network Co., Ltd",AS146817,CN,Hubei,,favicon
-162.251.94.208,8080,2026-11-18,2026-11-26,2026-11-03T14:21:37.939388,CyberStrikeAI,,,G NETWORK LLC,AS154321,HK,Tseung Kwan O,,favicon
-164.132.247.190,8080,2026-11-24,2026-11-26,2026-11-23T18:05:13.217435,CyberStrikeAI,CyberStrikeAI,1.7.20,OVH SAS,AS16276,FR,Lille,ns3238079.ip-164-132-247.eu,favicon
-167.17.69.200,3001,2026-11-18,2026-11-26,2026-10-30T22:08:45.430926,CyberStrikeAI,,,GLOBALTELEHOST Corp.,AS63023,US,Northbrook,200-69-17-167.clients.gthost.com,favicon
-167.104.97.248,8080,2026-11-18,2026-11-26,2026-11-15T15:21:47.837047,CyberStrikeAI,CyberStrikeAI,1.0.0,Prinode AB,AS43969,US,Wilmington,,favicon
-167.104.101.174,8080,2026-11-19,2026-11-25,2026-11-24T22:18:43.718559,CyberStrikeAI,CyberStrikeAI,1.7.24,SIBERFY (PRIVATE) LIMITED,AS135598,US,Wilmington,,favicon
-168.76.121.77,443,2026-11-26,2026-11-26,2026-11-25T06:30:14.957454,CyberStrikeAI,CyberStrikeAI,1.8.0,Free State Education Department,AS137951,HK,Tseung Kwan O,a2.softdc.cn,favicon
-169.58.160.244,8080,2026-11-18,2026-11-26,2026-11-21T01:27:15.870717,CyberStrikeAI,CyberStrikeAI,1.7.23,Contabo GmbH,AS51167,US,Dallas,vmi3501595.contaboserver.net,favicon
-169.58.246.69,8080,2026-11-18,2026-11-26,2026-11-25T18:28:26.523575,CyberStrikeAI,CyberStrikeAI,1.7.24,Contabo GmbH,AS51167,US,Dallas,vmi3687342.contaboserver.net,favicon
-175.24.198.184,8080,2026-11-18,2026-11-26,2026-11-20T15:55:32.465346,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-175.24.198.184,8081,2026-11-18,2026-11-26,2026-11-25T19:40:40.326694,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
-175.27.230.233,8080,2026-11-18,2026-11-26,2026-10-29T12:34:06.478682,CyberStrikeAI,,,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Nanjing,,favicon
-175.178.100.28,52010,2026-11-26,2026-11-26,2026-11-25T15:32:53.115102,CyberStrikeAI,CyberStrikeAI,1.7.14,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
-182.16.61.91,8080,2026-11-19,2026-11-26,2026-11-25T20:16:48.073564,CyberStrikeAI,CyberStrikeAI,,Netsec Limited,AS963,HK,Tseung Kwan O,,favicon
-182.16.61.92,8080,2026-11-18,2026-11-26,2026-11-25T20:16:48.118195,CyberStrikeAI,CyberStrikeAI,,Netsec Limited,AS963,HK,Tseung Kwan O,,favicon
-182.16.61.93,8080,2026-11-20,2026-11-26,2026-11-25T20:16:48.095790,CyberStrikeAI,CyberStrikeAI,,Netsec Limited,AS963,HK,Tseung Kwan O,,favicon
-182.16.61.94,8080,2026-11-19,2026-11-26,2026-11-25T20:53:14.602190,CyberStrikeAI,CyberStrikeAI,,Netsec Limited,AS963,HK,Tseung Kwan O,,favicon
-182.139.87.7,8090,2026-11-18,2026-11-26,2026-10-30T20:39:15.479133,CyberStrikeAI,,,CHINANET Sichuan province network,AS4134,CN,Shanghai,,favicon
-182.214.108.179,8080,2026-11-18,2026-11-26,2026-11-25T19:53:25.726273,CyberStrikeAI,CyberStrikeAI,1.7.21,LG POWERCOMM,AS17858,KR,Seoul,,favicon
-182.255.44.70,8080,2026-11-21,2026-11-26,2026-11-24T22:07:37.447764,CyberStrikeAI,CyberStrikeAI,1.7.24,"Hong Kong YunLiFang Co., Limited",AS6134,HK,Hong Kong,,favicon
-185.216.119.123,8080,2026-11-18,2026-11-26,2026-11-22T15:11:56.315645,CyberStrikeAI,CyberStrikeAI,1.7.24,Cloudie Limited,AS55933,HK,Tseung Kwan O,,favicon
-189.105.72.245,8080,2026-11-18,2026-11-26,2026-11-21T04:35:50.644134,CyberStrikeAI,CyberStrikeAI,1.8.0,HGC Global Communications Limited,AS979,BR,Ilhéus,,favicon
-191.44.109.26,8080,2026-11-18,2026-11-26,2026-11-17T16:05:03.651819,CyberStrikeAI,CyberStrikeAI,1.7.24,Datagio Systems Ltd.,AS198550,US,Fort Lauderdale,,favicon
-192.74.251.211,443,2026-11-18,2026-11-26,2026-10-29T01:05:49.960302,CyberStrikeAI,nginx,1.24.0,PEG TECH INC,AS54600,US,San Jose,aisecid.raksmart.com,favicon
-192.129.145.15,8080,2026-11-18,2026-11-26,2026-11-14T07:30:15.694750,CyberStrikeAI,CyberStrikeAI,1.7.24,RackNerd LLC,AS36352,US,Dallas,,favicon
-192.144.172.38,8080,2026-11-18,2026-11-26,2026-11-05T01:18:01.665360,CyberStrikeAI,,,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Beijing,,favicon
-192.227.227.207,8080,2026-11-18,2026-11-26,2026-11-19T14:37:11.030683,CyberStrikeAI,CyberStrikeAI,1.7.17,HostPapa,AS36352,US,Buffalo,192-227-227-207-host.colocrossing.com,favicon
-192.236.166.73,8080,2026-11-18,2026-11-26,2026-11-15T11:08:08.619948,CyberStrikeAI,CyberStrikeAI,1.7.17,HostPapa,AS36352,US,Dallas,,favicon
-192.236.166.73,8090,2026-11-18,2026-11-26,2026-11-19T07:32:32.905434,CyberStrikeAI,CyberStrikeAI,1.7.17,HostPapa,AS36352,US,Dallas,,favicon
-192.236.187.44,443,2026-11-18,2026-11-26,2026-11-20T20:39:19.379789,CyberStrikeAI,CyberStrikeAI,1.7.20,HostPapa,AS36352,US,Dallas,,favicon
-192.253.229.28,6688,2026-11-18,2026-11-26,2026-11-14T20:25:47.614007,CyberStrikeAI,CyberStrikeAI,1.7.24,"Integen, Inc",AS152194,HK,Tseung Kwan O,,favicon
-192.253.229.28,8080,2026-11-18,2026-11-26,2026-11-25T16:33:18.587821,CyberStrikeAI,CyberStrikeAI,1.7.24,"Integen, Inc",AS152194,HK,Tseung Kwan O,,favicon
-192.253.229.113,8080,2026-11-18,2026-11-26,2026-11-25T18:09:19.100514,CyberStrikeAI,CyberStrikeAI,1.7.24,"Integen, Inc",AS152194,HK,Tseung Kwan O,,favicon
-192.255.230.190,80,2026-11-23,2026-11-26,2026-11-25T14:32:55.024006,CyberStrikeAI,CyberStrikeAI,1.8.1,RackNerd LLC,AS36352,US,Dallas,,favicon
-192.255.230.190,8443,2026-11-18,2026-11-26,2026-11-20T05:54:22.272704,CyberStrikeAI,CyberStrikeAI,1.8.0,HostPapa,AS36352,US,Dallas,,favicon
-193.134.211.175,8080,2026-11-25,2026-11-26,2026-11-24T20:02:04.804381,CyberStrikeAI,CyberStrikeAI,1.7.18,LUCIDACLOUD LIMITED,AS139659,HK,Tseung Kwan O,,favicon
-193.160.32.149,8080,2026-11-18,2026-11-26,2026-11-22T07:11:34.478148,CyberStrikeAI,CyberStrikeAI,1.7.20,Shock Hosting LLC,AS206216,US,San Jose,,favicon
-193.160.32.154,1235,2026-11-18,2026-11-26,2026-11-24T13:43:39.073702,CyberStrikeAI,CyberStrikeAI,1.7.23,Shock Hosting LLC,AS206216,US,San Jose,,favicon
-194.59.30.207,8080,2026-11-18,2026-11-26,2026-11-18T09:47:09.572734,CyberStrikeAI,CyberStrikeAI,1.7.17,Virtuo Networks France SAS,AS399486,FR,Paris,,favicon
-195.128.248.38,8080,2026-11-18,2026-11-26,2026-11-23T07:19:09.871575,CyberStrikeAI,CyberStrikeAI,1.7.24,Virtual Systems LLC,AS6698,UA,Kyiv,dedicated.vsys.host,favicon
-198.12.96.31,8080,2026-11-18,2026-11-26,2026-11-24T01:17:16.665808,CyberStrikeAI,CyberStrikeAI,1.7.24,HostPapa,AS36352,US,Elk Grove Village,198-12-96-31-host.colocrossing.com,favicon
-198.13.159.101,8080,2026-11-18,2026-11-26,2026-11-14T06:56:07.540820,CyberStrikeAI,CyberStrikeAI,1.7.24,BL Networks,AS399629,CA,Montréal,,favicon
-198.44.179.90,443,2026-11-18,2026-11-26,2026-11-24T22:39:07.931313,摸金校尉 v2.0,CyberStrikeAI,2.0,VpsQuan L.L.C.,AS154321,HK,Tseung Kwan O,mojin.uwxnaeh.kdns.fr,favicon
-199.47.242.104,8085,2026-11-18,2026-11-26,2026-11-14T09:19:45.013060,CyberStrikeAI,CyberStrikeAI,1.7.24,HostDZire Web Services Private Limited,AS60781,CA,Cambridge,,favicon
+124.221.73.132,8080,2026-11-18,2026-11-27,2026-11-18T12:17:24.249907,CyberStrikeAI,CyberStrikeAI,1.7.17,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+124.221.73.132,8081,2026-11-18,2026-11-27,2026-11-24T09:02:26.673326,CyberStrikeAI,CyberStrikeAI,1.7.17,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+124.221.210.109,8080,2026-11-18,2026-11-27,2026-11-26T16:57:14.364321,CyberStrikeAI,CyberStrikeAI,1.7.23,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+124.221.250.143,443,2026-11-18,2026-11-27,2026-11-24T21:44:42.925162,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+124.222.77.133,8080,2026-11-18,2026-11-27,2026-10-28T22:50:04.599023,CyberStrikeAI,,,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+124.223.76.60,8080,2026-11-18,2026-11-27,2026-11-26T16:16:03.584287,CyberStrikeAI,CyberStrikeAI,1.7.23,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+128.1.49.187,443,2026-11-18,2026-11-27,2026-10-29T21:17:50.624738,CyberStrikeAI,,,UCLOUD,AS135377,JP,Tokyo,,favicon
+129.150.46.86,2053,2026-11-20,2026-11-27,2026-11-19T09:14:58.014600,CyberStrikeAI,CyberStrikeAI,1.8.0,Oracle Corporation,AS31898,SG,Kampong Loyang,,favicon
+129.211.7.207,18080,2026-11-18,2026-11-27,2026-11-15T04:23:36.379071,CyberStrikeAI,CyberStrikeAI,1.7.17,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Shanghai,,favicon
+129.213.105.229,8443,2026-11-22,2026-11-27,2026-11-22T05:14:39.535602,CyberStrikeAI,CyberStrikeAI,1.7.24,Oracle Public Cloud,AS31898,US,Ashburn,pentagi.koloa.top,favicon
+129.226.71.134,8080,2026-11-18,2026-11-27,2026-11-17T16:41:28.185248,CyberStrikeAI,CyberStrikeAI,1.7.20,"Tencent Building, Kejizhongyi Avenue",AS132203,HK,Hong Kong,,favicon
+129.226.198.200,9999,2026-11-18,2026-11-27,2026-11-26T13:53:03.074206,CyberStrikeAI,CyberStrikeAI,1.7.24,ACEVILLE PTE.LTD.,AS132203,SG,Singapore,,favicon
+130.94.45.16,443,2026-11-18,2026-11-27,2026-11-17T07:24:07.553737,CyberStrikeAI,CyberStrikeAI,1.7.23-restricted-evaluation,LIGHT NODE LIMITED,AS154177,US,Englewood,,favicon
+134.122.132.28,443,2026-11-26,2026-11-27,2026-11-25T13:20:47.285962,CyberStrikeAI,CyberStrikeAI,1.8.0,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,wa.168api.dpdns.org,favicon
+134.122.132.64,8080,2026-11-18,2026-11-27,2026-11-10T19:04:02.699012,CyberStrikeAI,CyberStrikeAI,1.7.24,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,,favicon
+134.122.135.116,8080,2026-11-24,2026-11-27,2026-11-24T01:24:49.496620,CyberStrikeAI,CyberStrikeAI,1.8.0,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,,favicon
+134.122.135.120,8080,2026-11-20,2026-11-27,2026-11-23T20:35:16.851885,CyberStrikeAI,CyberStrikeAI,1.8.0,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,,favicon
+134.122.154.247,8080,2026-11-18,2026-11-27,2026-11-11T22:26:52.833570,CyberStrikeAI,CyberStrikeAI,1.7.23,CTG Server Ltd.,AS152194,JP,Tokyo,,favicon
+134.175.89.67,8080,2026-11-25,2026-11-27,2026-11-24T08:10:51.988403,CyberStrikeAI,CyberStrikeAI,1.7.17,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Guangzhou,,favicon
+137.220.145.4,8090,2026-11-27,2026-11-27,2026-11-26T17:36:44.051576,CyberStrikeAI,CyberStrikeAI,1.7.24,CTG Server Ltd.,AS152194,JP,Tokyo,,favicon
+137.220.145.99,8090,2026-11-27,2026-11-27,2026-11-26T14:03:11.753005,CyberStrikeAI,CyberStrikeAI,1.7.24,CTG Server Ltd.,AS152194,JP,Tokyo,,favicon
+137.220.185.163,8080,2026-11-27,2026-11-27,2026-11-26T18:52:30.728137,CyberStrikeAI,CyberStrikeAI,,CTG Server Ltd.,AS152194,JP,Tokyo,,favicon
+137.220.185.191,8080,2026-11-26,2026-11-27,2026-11-25T19:53:25.160619,CyberStrikeAI,CyberStrikeAI,,CTG Server Ltd.,AS152194,JP,Tokyo,,favicon
+138.226.247.131,8168,2026-11-18,2026-11-27,2026-11-23T02:54:03.040464,CyberStrikeAI,CyberStrikeAI,1.7.22,Sollutium-NL SOLLUTIUM EU Sp z.o.o.,AS43641,CH,Zürich,solaaeon.foremostcm.com,favicon
+138.249.133.120,8083,2026-11-18,2026-11-27,2026-11-19T11:58:28.884357,CyberStrikeAI,CyberStrikeAI,1.7.17,Costel Savulescu,AS63023,FI,Helsinki,vm16761.bit.hosting,favicon
+139.186.20.56,8080,2026-11-18,2026-11-27,2026-11-15T11:16:15.766239,CyberStrikeAI,CyberStrikeAI,1.7.9,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Chongqing,,favicon
+139.186.179.53,8080,2026-11-19,2026-11-27,2026-11-18T19:06:49.776358,CyberStrikeAI,CyberStrikeAI,1.7.9,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Chongqing,,favicon
+139.186.180.69,8080,2026-11-18,2026-11-27,2026-11-11T12:36:25.730653,CyberStrikeAI,CyberStrikeAI,1.7.9,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Chongqing,,favicon
+142.248.139.61,8080,2026-11-18,2026-11-27,2026-11-19T23:34:15.079715,CyberStrikeAI,CyberStrikeAI,1.7.24,"HONG KONG COMMUNICATIONS INTERNATIONAL CO.,LIMITED",AS137535,,,,favicon
+147.189.161.66,8080,2026-11-18,2026-11-27,2026-11-14T14:53:55.011912,CyberStrikeAI,CyberStrikeAI,1.7.24,Jerng Yue Lee trading as Evoxt Enterprise,AS212083,US,Los Angeles,,favicon
+149.88.80.98,8080,2026-11-22,2026-11-27,2026-11-24T17:38:18.618131,CyberStrikeAI,CyberStrikeAI,1.7.24,"Cogent Communications, LLC",AS401696,HK,Tseung Kwan O,,favicon
+149.104.24.229,8081,2026-11-18,2026-11-27,2026-11-24T23:34:10.938838,CyberStrikeAI,CyberStrikeAI,1.7.9,STARCLOUD GLOBAL PTE. LTD.,AS139659,HK,Harmony Garden,,favicon
+149.104.31.191,8080,2026-11-19,2026-11-27,2026-11-26T16:59:48.560072,CyberStrikeAI,CyberStrikeAI,1.8.1,STARCLOUD GLOBAL PTE. LTD.,AS139659,HK,Harmony Garden,,favicon
+149.129.253.229,8080,2026-11-20,2026-11-27,2026-11-26T07:02:03.318891,CyberStrikeAI,CyberStrikeAI,1.7.18,"21/F, Ciputra World 1 (DBS Tower), JalanProf. DR. Satrio Kav 3-5, Jakarta 12940, Indonesia",AS45102,ID,Jakarta,,favicon
+151.243.126.16,8080,2026-11-23,2026-11-27,2026-11-25T00:43:21.432897,CyberStrikeAI,CyberStrikeAI,1.7.24,Company 683558afZaszR5rt,AS22160,NL,Enschede,,favicon
+152.175.230.140,8080,2026-11-18,2026-11-27,2026-11-15T05:35:21.710113,CyberStrikeAI,CyberStrikeAI,1.7.24,SAKURA LINK LIMITED,AS154321,CL,Santiago,Hosted-by.sakura.as,favicon
+154.12.30.12,8080,2026-11-18,2026-11-27,2026-11-25T11:15:11.203930,AI智能测试平台,CyberStrikeAI,1.7.18,"Cogent Communications, LLC",AS401696,HK,Tseung Kwan O,,favicon
+154.12.94.78,8080,2026-11-18,2026-11-27,2026-11-25T19:58:13.951353,CyberStrikeAI,CyberStrikeAI,1.7.24,"Cogent Communications, LLC",AS402506,US,Los Angeles,,favicon
+154.23.165.17,8080,2026-11-18,2026-11-27,2026-11-26T13:50:53.835638,CyberStrikeAI,CyberStrikeAI,,KURUN CLOUD INC,AS8796,US,Los Angeles,,favicon
+154.81.166.35,8080,2026-11-19,2026-11-27,2026-11-20T17:59:15.974872,CyberStrikeAI,CyberStrikeAI,1.8.0,Zillion Network Inc.,AS54801,US,San Jose,,favicon
+154.84.17.148,80,2026-11-18,2026-11-27,2026-11-26T20:49:45.559964,CyberStrikeAI,CyberStrikeAI,1.7.24,"Cloudflare London, LLC",AS209242,JP,Tokyo,,favicon
+154.84.17.148,8080,2026-11-25,2026-11-27,2026-11-24T21:06:12.608972,CyberStrikeAI,CyberStrikeAI,1.7.24,"Cloudflare London, LLC",AS209242,JP,Tokyo,,favicon
+154.84.17.213,443,2026-11-18,2026-11-27,2026-11-24T13:33:58.107449,CyberStrikeAI,CyberStrikeAI,1.7.24,"Cloudflare London, LLC",AS209242,JP,Tokyo,10086.jp,favicon
+154.86.0.72,8080,2026-11-18,2026-11-27,2026-11-12T08:14:18.793027,CyberStrikeAI,CyberStrikeAI,1.7.24,"HONG KONG LIGHTLAYER TECHNOLOGY CO., LIMITED",AS139646,HK,Hong Kong,,favicon
+154.86.0.81,8080,2026-11-18,2026-11-27,2026-11-14T17:38:10.533437,CyberStrikeAI,CyberStrikeAI,1.7.24,"HONG KONG LIGHTLAYER TECHNOLOGY CO., LIMITED",AS139646,HK,Hong Kong,,favicon
+154.198.48.88,8080,2026-11-18,2026-11-27,2026-11-14T19:09:37.986132,CyberStrikeAI,CyberStrikeAI,1.7.24,Antbox Networks Limited,AS138995,HK,Tseung Kwan O,,favicon
+154.211.92.219,8080,2026-11-26,2026-11-27,2026-11-26T20:30:18.778647,CyberStrikeAI,CyberStrikeAI,1.7.24,Tcloudnet,AS399077,US,San Jose,,favicon
+154.219.101.50,443,2026-11-18,2026-11-27,2026-11-24T16:38:29.767880,CyberStrikeAI,CyberStrikeAI,1.7.12,I LAYER LIMITED,AS137899,HK,Tseung Kwan O,cs.113438.xyz,favicon
+154.219.118.126,443,2026-11-18,2026-11-27,2026-11-25T18:37:32.786021,HNkejiAI,CyberStrikeAI,1.7.24,I LAYER LIMITED,AS137899,HK,Tseung Kwan O,www.ahshop.eu.cc,favicon
+154.219.118.126,8080,2026-11-18,2026-11-27,2026-11-21T01:41:43.540885,HNkejiAI,CyberStrikeAI,1.7.24,I LAYER LIMITED,AS137899,HK,Tseung Kwan O,,favicon
+156.225.25.222,8443,2026-11-18,2026-11-27,2026-11-20T22:34:17.694850,CyberStrikeAI,CyberStrikeAI,1.7.24,cognetcloud INC,AS401701,HK,Tseung Kwan O,,favicon
+156.233.235.164,8080,2026-11-20,2026-11-27,2026-11-26T17:01:08.231969,网刃 · 指挥台,CyberStrikeAI,,I LAYER LIMITED,AS137899,US,New York City,,favicon
+156.238.235.191,8085,2026-11-18,2026-11-27,2026-11-22T17:59:53.844151,CyberStrikeAI,CyberStrikeAI,1.7.20,cognetcloud INC,AS401701,HK,Tseung Kwan O,,favicon
+156.240.236.10,18443,2026-11-21,2026-11-27,2026-11-25T06:41:47.106617,CyberStrikeAI,CyberStrikeAI,1.7.24,Tcloudnet,AS399077,HK,Tseung Kwan O,,favicon
+156.247.40.47,8080,2026-11-18,2026-11-27,2026-11-13T01:45:16.223629,CyberStrikeAI,CyberStrikeAI,1.7.24,"RedLuff, LLC",AS401739,HK,Hong Kong,,favicon
+158.220.104.61,8080,2026-11-18,2026-11-27,2026-11-14T19:13:30.648135,CyberStrikeAI,CyberStrikeAI,1.7.24,Contabo GmbH,AS51167,DE,Köln,vmi3423772.contaboserver.net,favicon
+158.220.114.59,443,2026-11-19,2026-11-27,2026-11-19T01:59:14.560119,CyberStrikeAI,CyberStrikeAI,1.7.17,Contabo GmbH,AS51167,DE,Düsseldorf,vmi3746447.contaboserver.net,favicon
+160.202.230.105,8080,2026-11-18,2026-11-27,2026-11-20T11:50:25.964266,CyberStrikeAI,CyberStrikeAI,1.7.17,"Hubei Feixun Network Co., Ltd",AS146817,CN,Hubei,,favicon
+162.251.94.208,8080,2026-11-18,2026-11-27,2026-11-03T14:21:37.939388,CyberStrikeAI,,,G NETWORK LLC,AS154321,HK,Tseung Kwan O,,favicon
+164.132.247.190,8080,2026-11-24,2026-11-27,2026-11-23T18:05:13.217435,CyberStrikeAI,CyberStrikeAI,1.7.20,OVH SAS,AS16276,FR,Lille,ns3238079.ip-164-132-247.eu,favicon
+167.17.69.200,3001,2026-11-18,2026-11-27,2026-10-30T22:08:45.430926,CyberStrikeAI,,,GLOBALTELEHOST Corp.,AS63023,US,Northbrook,200-69-17-167.clients.gthost.com,favicon
+167.17.186.84,443,2026-11-27,2026-11-27,2026-11-26T17:48:41.173454,CyberStrikeAI,CyberStrikeAI,,Baxet Group Inc.,AS26383,US,Northbrook,wa.168api.dpdns.org,favicon
+167.104.97.248,8080,2026-11-18,2026-11-27,2026-11-15T15:21:47.837047,CyberStrikeAI,CyberStrikeAI,1.0.0,Prinode AB,AS43969,US,Wilmington,,favicon
+167.104.101.174,8080,2026-11-19,2026-11-27,2026-11-26T17:03:24.715705,CyberStrikeAI,CyberStrikeAI,1.7.24,SIBERFY (PRIVATE) LIMITED,AS135598,US,Wilmington,,favicon
+168.76.121.77,443,2026-11-26,2026-11-27,2026-11-25T06:30:14.957454,CyberStrikeAI,CyberStrikeAI,1.8.0,Free State Education Department,AS137951,HK,Tseung Kwan O,a2.softdc.cn,favicon
+169.58.160.244,8080,2026-11-18,2026-11-27,2026-11-21T01:27:15.870717,CyberStrikeAI,CyberStrikeAI,1.7.23,Contabo GmbH,AS51167,US,Dallas,vmi3501595.contaboserver.net,favicon
+169.58.246.69,8080,2026-11-18,2026-11-27,2026-11-25T18:28:26.523575,CyberStrikeAI,CyberStrikeAI,1.7.24,Contabo GmbH,AS51167,US,Dallas,vmi3687342.contaboserver.net,favicon
+175.24.198.184,8080,2026-11-18,2026-11-27,2026-11-20T15:55:32.465346,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+175.24.198.184,8081,2026-11-18,2026-11-27,2026-11-25T19:40:40.326694,CyberStrikeAI,CyberStrikeAI,1.7.24,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Shanghai,,favicon
+175.27.230.233,8080,2026-11-18,2026-11-27,2026-10-29T12:34:06.478682,CyberStrikeAI,,,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Nanjing,,favicon
+175.178.100.28,52010,2026-11-26,2026-11-27,2026-11-25T15:32:53.115102,CyberStrikeAI,CyberStrikeAI,1.7.14,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090,CN,Guangzhou,,favicon
+176.122.142.17,8080,2026-11-27,2026-11-27,2026-11-26T11:41:03.636691,CyberStrikeAI,CyberStrikeAI,1.7.17,Cluster Logic Inc,AS25820,US,Los Angeles,176.122.142.17.16clouds.com,favicon
+182.16.61.90,8080,2026-11-18,2026-11-27,2026-11-26T20:38:07.509852,CyberStrikeAI,CyberStrikeAI,,Netsec Limited,AS963,HK,Tseung Kwan O,,favicon
+182.16.61.91,8080,2026-11-19,2026-11-27,2026-11-26T20:31:38.586073,CyberStrikeAI,CyberStrikeAI,,Netsec Limited,AS963,HK,Tseung Kwan O,,favicon
+182.16.61.92,8080,2026-11-18,2026-11-27,2026-11-26T20:44:07.397531,CyberStrikeAI,CyberStrikeAI,,Netsec Limited,AS963,HK,Tseung Kwan O,,favicon
+182.16.61.93,8080,2026-11-20,2026-11-27,2026-11-26T20:38:07.486555,CyberStrikeAI,CyberStrikeAI,,Netsec Limited,AS963,HK,Tseung Kwan O,,favicon
+182.16.61.94,8080,2026-11-19,2026-11-27,2026-11-26T20:38:07.715465,CyberStrikeAI,CyberStrikeAI,,Netsec Limited,AS963,HK,Tseung Kwan O,,favicon
+182.139.87.7,8090,2026-11-18,2026-11-27,2026-10-30T20:39:15.479133,CyberStrikeAI,,,CHINANET Sichuan province network,AS4134,CN,Shanghai,,favicon
+182.214.108.179,8080,2026-11-18,2026-11-27,2026-11-25T19:53:25.726273,CyberStrikeAI,CyberStrikeAI,1.7.21,LG POWERCOMM,AS17858,KR,Seoul,,favicon
+182.255.44.70,8080,2026-11-21,2026-11-27,2026-11-26T17:00:24.766905,CyberStrikeAI,CyberStrikeAI,1.7.24,"Hong Kong YunLiFang Co., Limited",AS6134,HK,Hong Kong,,favicon
+185.216.119.123,8080,2026-11-18,2026-11-27,2026-11-22T15:11:56.315645,CyberStrikeAI,CyberStrikeAI,1.7.24,Cloudie Limited,AS55933,HK,Tseung Kwan O,,favicon
+189.105.72.245,8080,2026-11-18,2026-11-27,2026-11-21T04:35:50.644134,CyberStrikeAI,CyberStrikeAI,1.8.0,HGC Global Communications Limited,AS979,BR,Ilhéus,,favicon
+191.44.109.26,8080,2026-11-18,2026-11-27,2026-11-17T16:05:03.651819,CyberStrikeAI,CyberStrikeAI,1.7.24,Datagio Systems Ltd.,AS198550,US,Fort Lauderdale,,favicon
+192.74.251.211,443,2026-11-18,2026-11-27,2026-10-29T01:05:49.960302,CyberStrikeAI,nginx,1.24.0,PEG TECH INC,AS54600,US,San Jose,aisecid.raksmart.com,favicon
+192.129.145.15,8080,2026-11-18,2026-11-27,2026-11-14T07:30:15.694750,CyberStrikeAI,CyberStrikeAI,1.7.24,RackNerd LLC,AS36352,US,Dallas,,favicon
+192.144.172.38,8080,2026-11-18,2026-11-27,2026-11-05T01:18:01.665360,CyberStrikeAI,,,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090,CN,Beijing,,favicon
+192.227.227.207,8080,2026-11-18,2026-11-27,2026-11-19T14:37:11.030683,CyberStrikeAI,CyberStrikeAI,1.7.17,HostPapa,AS36352,US,Buffalo,192-227-227-207-host.colocrossing.com,favicon
+192.236.166.73,8080,2026-11-18,2026-11-27,2026-11-15T11:08:08.619948,CyberStrikeAI,CyberStrikeAI,1.7.17,HostPapa,AS36352,US,Dallas,,favicon
+192.236.166.73,8090,2026-11-18,2026-11-27,2026-11-19T07:32:32.905434,CyberStrikeAI,CyberStrikeAI,1.7.17,HostPapa,AS36352,US,Dallas,,favicon
+192.236.187.44,443,2026-11-18,2026-11-27,2026-11-20T20:39:19.379789,CyberStrikeAI,CyberStrikeAI,1.7.20,HostPapa,AS36352,US,Dallas,,favicon
+192.253.229.28,6688,2026-11-18,2026-11-27,2026-11-14T20:25:47.614007,CyberStrikeAI,CyberStrikeAI,1.7.24,"Integen, Inc",AS152194,HK,Tseung Kwan O,,favicon
+192.253.229.28,8080,2026-11-18,2026-11-27,2026-11-25T16:33:18.587821,CyberStrikeAI,CyberStrikeAI,1.7.24,"Integen, Inc",AS152194,HK,Tseung Kwan O,,favicon
+192.253.229.113,8080,2026-11-18,2026-11-27,2026-11-26T20:29:47.836925,CyberStrikeAI,CyberStrikeAI,1.7.24,"Integen, Inc",AS152194,HK,Tseung Kwan O,,favicon
+192.255.230.190,80,2026-11-23,2026-11-27,2026-11-25T14:32:55.024006,CyberStrikeAI,CyberStrikeAI,1.8.1,RackNerd LLC,AS36352,US,Dallas,,favicon
+192.255.230.190,8443,2026-11-18,2026-11-27,2026-11-20T05:54:22.272704,CyberStrikeAI,CyberStrikeAI,1.8.0,HostPapa,AS36352,US,Dallas,,favicon
+193.134.211.175,8080,2026-11-25,2026-11-27,2026-11-24T20:02:04.804381,CyberStrikeAI,CyberStrikeAI,1.7.18,LUCIDACLOUD LIMITED,AS139659,HK,Tseung Kwan O,,favicon
+193.160.32.149,8080,2026-11-18,2026-11-27,2026-11-22T07:11:34.478148,CyberStrikeAI,CyberStrikeAI,1.7.20,Shock Hosting LLC,AS206216,US,San Jose,,favicon
+193.160.32.154,1235,2026-11-18,2026-11-27,2026-11-24T13:43:39.073702,CyberStrikeAI,CyberStrikeAI,1.7.23,Shock Hosting LLC,AS206216,US,San Jose,,favicon
+194.59.30.207,8080,2026-11-18,2026-11-27,2026-11-18T09:47:09.572734,CyberStrikeAI,CyberStrikeAI,1.7.17,Virtuo Networks France SAS,AS399486,FR,Paris,,favicon
+195.128.248.38,8080,2026-11-18,2026-11-27,2026-11-23T07:19:09.871575,CyberStrikeAI,CyberStrikeAI,1.7.24,Virtual Systems LLC,AS6698,UA,Kyiv,dedicated.vsys.host,favicon
+198.12.96.31,8080,2026-11-18,2026-11-27,2026-11-24T01:17:16.665808,CyberStrikeAI,CyberStrikeAI,1.7.24,HostPapa,AS36352,US,Elk Grove Village,198-12-96-31-host.colocrossing.com,favicon
+198.13.159.101,8080,2026-11-18,2026-11-27,2026-11-14T06:56:07.540820,CyberStrikeAI,CyberStrikeAI,1.7.24,BL Networks,AS399629,CA,Montréal,,favicon
+198.44.179.90,443,2026-11-18,2026-11-27,2026-11-24T22:39:07.931313,摸金校尉 v2.0,CyberStrikeAI,2.0,VpsQuan L.L.C.,AS154321,HK,Tseung Kwan O,mojin.uwxnaeh.kdns.fr,favicon
+199.47.242.104,8085,2026-11-18,2026-11-27,2026-11-14T09:19:45.013060,CyberStrikeAI,CyberStrikeAI,1.7.24,HostDZire Web Services Private Limited,AS60781,CA,Cambridge,,favicon
 201.79.98.125,8080,2026-11-21,2026-11-26,2026-11-21T02:12:16.638564,CyberStrikeAI,CyberStrikeAI,1.7.18,"DigitalOcean, LLC",AS14061,BR,São Paulo,,favicon
-202.61.130.54,443,2026-11-18,2026-11-26,2026-11-16T00:15:54.844462,CyberStrikeAI,CyberStrikeAI,1.7.24,CTG Server Ltd.,AS152194,JP,Tokyo,,favicon
-202.79.168.28,8080,2026-11-25,2026-11-26,2026-11-24T11:27:24.491094,CyberStrikeAI,CyberStrikeAI,,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,,favicon
-202.79.168.29,443,2026-11-21,2026-11-26,2026-11-20T09:00:21.228533,CyberStrikeAI,CyberStrikeAI,1.8.0,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,www.ugskbbdkjdh.shop,favicon
-202.79.168.36,443,2026-11-22,2026-11-26,2026-11-21T22:48:08.661607,CyberStrikeAI,CyberStrikeAI,1.8.0,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,www.ugskbbdkjdh.shop,favicon
-202.79.168.55,443,2026-11-22,2026-11-26,2026-11-22T00:58:36.719846,CyberStrikeAI,CyberStrikeAI,1.8.0,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,www.ugskbbdkjdh.shop,favicon
-202.79.168.55,8080,2026-11-22,2026-11-26,2026-11-21T08:40:04.315518,CyberStrikeAI,CyberStrikeAI,1.8.0,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,,favicon
-202.182.102.4,8080,2026-11-18,2026-11-26,2026-11-23T05:20:51.419682,CyberStrikeAI,CyberStrikeAI,1.7.24,TYO_VULTR_CUST,AS20473,JP,Ōi,202.182.102.4.vultrusercontent.com,favicon
-202.182.117.222,8080,2026-11-18,2026-11-26,2026-11-24T15:01:01.793979,CyberStrikeAI,CyberStrikeAI,1.7.24,TYO_VULTR_CUST,AS20473,JP,Ōi,202.182.117.222.vultrusercontent.com,favicon
-203.160.52.116,8080,2026-11-18,2026-11-26,2026-11-21T08:03:24.495837,CyberStrikeAI,CyberStrikeAI,1.7.24,sleep Limited,AS55933,CN,Futian,spk.laws.ms,favicon
-203.160.52.218,8080,2026-11-18,2026-11-26,2026-11-15T13:52:56.321818,CyberStrikeAI,CyberStrikeAI,1.7.24,sleep Limited,AS55933,CN,Futian,spk.laws.ms,favicon
-204.44.110.115,80,2026-11-18,2026-11-26,2026-11-16T04:49:53.678335,CyberStrikeAI,CyberStrikeAI,1.7.16,HostPapa,AS36352,US,Buffalo,204-44-110-115-host.colocrossing.com,favicon
-204.194.48.29,443,2026-11-26,2026-11-26,2026-11-25T08:32:10.140006,CyberStrikeAI,CyberStrikeAI,,Decision Focus Incorporated,AS140869,US,Los Altos,axis.blueoakassets.com,favicon
-204.194.50.61,8080,2026-11-18,2026-11-26,2026-11-25T18:09:20.779344,CyberStrikeAI,CyberStrikeAI,1.7.24,Decision Focus Incorporated,AS140869,US,Los Altos,,favicon
-204.194.51.64,8081,2026-11-18,2026-11-26,2026-11-19T12:38:39.891835,CyberStrikeAI,CyberStrikeAI,1.7.24,Decision Focus Incorporated,AS140869,US,Los Altos,,favicon
-206.238.178.66,443,2026-11-23,2026-11-25,2026-11-23T02:57:16.354138,CyberStrikeAI,CyberStrikeAI,1.8.0,"Cogent Communications, LLC",AS399077,HK,Tseung Kwan O,,favicon
-207.57.121.89,8081,2026-11-18,2026-11-26,2026-11-05T20:49:09.582891,CyberStrikeAI,,,"NTT America, Inc.",AS139659,US,Englewood,,favicon
-207.57.125.53,443,2026-11-18,2026-11-26,2026-11-10T18:25:58.151925,CyberStrikeAI,CyberStrikeAI,1.7.18,"NTT America, Inc.",AS139659,US,Englewood,,favicon
-207.148.119.67,8080,2026-11-22,2026-11-25,2026-11-21T04:53:08.110269,CyberStrikeAI,CyberStrikeAI,1.7.24,SGP_VULTR_CUST,AS20473,SG,Singapore,207.148.119.67.vultrusercontent.com,favicon
-207.180.206.222,9876,2026-11-19,2026-11-26,2026-11-26T00:16:05.831822,CyberStrikeAI,CyberStrikeAI,1.7.17,Contabo GmbH,AS51167,DE,Frankfurt am Main,pusulatech.com,favicon
-209.126.10.129,8080,2026-11-21,2026-11-26,2026-11-20T23:24:29.544689,CyberStrikeAI,CyberStrikeAI,1.7.24,Contabo Inc.,AS40021,US,St. Louis,vmi3684992.contaboserver.net,favicon
-212.86.125.157,8168,2026-11-23,2026-11-26,2026-11-22T06:56:27.092448,CyberStrikeAI,CyberStrikeAI,1.7.24,Sollutium-NL SOLLUTIUM EU Sp z.o.o.,AS43641,UA,Dobropillia,dedicated.sollutium.com,favicon
-220.93.125.202,8080,2026-11-25,2026-11-26,2026-11-24T14:16:40.008022,CyberStrikeAI,CyberStrikeAI,1.7.24,Korea Telecom,AS4766,KR,Seoul,,favicon
-222.112.124.225,8080,2026-11-25,2026-11-26,2026-11-24T19:57:50.207400,CyberStrikeAI,CyberStrikeAI,1.7.24,Korea Telecom,AS4766,KR,Seoul,,favicon
+202.61.130.54,443,2026-11-18,2026-11-27,2026-11-16T00:15:54.844462,CyberStrikeAI,CyberStrikeAI,1.7.24,CTG Server Ltd.,AS152194,JP,Tokyo,,favicon
+202.79.168.28,8080,2026-11-25,2026-11-27,2026-11-24T11:27:24.491094,CyberStrikeAI,CyberStrikeAI,,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,,favicon
+202.79.168.29,443,2026-11-21,2026-11-27,2026-11-20T09:00:21.228533,CyberStrikeAI,CyberStrikeAI,1.8.0,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,www.ugskbbdkjdh.shop,favicon
+202.79.168.36,443,2026-11-22,2026-11-27,2026-11-21T22:48:08.661607,CyberStrikeAI,CyberStrikeAI,1.8.0,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,www.ugskbbdkjdh.shop,favicon
+202.79.168.55,443,2026-11-22,2026-11-27,2026-11-22T00:58:36.719846,CyberStrikeAI,CyberStrikeAI,1.8.0,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,www.ugskbbdkjdh.shop,favicon
+202.79.168.55,8080,2026-11-22,2026-11-27,2026-11-21T08:40:04.315518,CyberStrikeAI,CyberStrikeAI,1.8.0,CTG Server Ltd.,AS152194,HK,Tseung Kwan O,,favicon
+202.182.102.4,8080,2026-11-18,2026-11-27,2026-11-23T05:20:51.419682,CyberStrikeAI,CyberStrikeAI,1.7.24,TYO_VULTR_CUST,AS20473,JP,Ōi,202.182.102.4.vultrusercontent.com,favicon
+202.182.117.222,8080,2026-11-18,2026-11-27,2026-11-24T15:01:01.793979,CyberStrikeAI,CyberStrikeAI,1.7.24,TYO_VULTR_CUST,AS20473,JP,Ōi,202.182.117.222.vultrusercontent.com,favicon
+203.146.170.20,8080,2026-11-27,2026-11-27,2026-11-26T04:21:53.874830,CyberStrikeAI,CyberStrikeAI,1.7.24,CS Loxinfo Public Company Limited,AS9891,TH,Bangkok,mail.thaimailservice.com,favicon
+203.160.52.116,8080,2026-11-18,2026-11-27,2026-11-21T08:03:24.495837,CyberStrikeAI,CyberStrikeAI,1.7.24,sleep Limited,AS55933,CN,Futian,spk.laws.ms,favicon
+203.160.52.218,8080,2026-11-18,2026-11-27,2026-11-15T13:52:56.321818,CyberStrikeAI,CyberStrikeAI,1.7.24,sleep Limited,AS55933,CN,Futian,spk.laws.ms,favicon
+203.160.54.208,8080,2026-11-27,2026-11-27,2026-11-26T16:13:55.466879,CyberStrikeAI,CyberStrikeAI,1.7.24,sleep Limited,AS55933,HK,Tseung Kwan O,spk.laws.ms,favicon
+204.44.110.115,80,2026-11-18,2026-11-27,2026-11-16T04:49:53.678335,CyberStrikeAI,CyberStrikeAI,1.7.16,HostPapa,AS36352,US,Buffalo,204-44-110-115-host.colocrossing.com,favicon
+204.194.48.29,443,2026-11-26,2026-11-27,2026-11-25T08:32:10.140006,CyberStrikeAI,CyberStrikeAI,,Decision Focus Incorporated,AS140869,US,Los Altos,axis.blueoakassets.com,favicon
+204.194.50.61,8080,2026-11-18,2026-11-27,2026-11-26T20:43:24.597728,CyberStrikeAI,CyberStrikeAI,1.7.24,Decision Focus Incorporated,AS140869,US,Los Altos,,favicon
+204.194.51.64,8081,2026-11-18,2026-11-27,2026-11-19T12:38:39.891835,CyberStrikeAI,CyberStrikeAI,1.7.24,Decision Focus Incorporated,AS140869,US,Los Altos,,favicon
+206.119.178.117,443,2026-11-27,2026-11-27,2026-11-26T07:44:06.172997,CyberStrikeAI,CyberStrikeAI,,"Cogent Communications, LLC",AS133199,HK,Tseung Kwan O,xuanshuo.shop,favicon
+207.57.121.89,8081,2026-11-18,2026-11-27,2026-11-05T20:49:09.582891,CyberStrikeAI,,,"NTT America, Inc.",AS139659,US,Englewood,,favicon
+207.57.125.53,443,2026-11-18,2026-11-27,2026-11-10T18:25:58.151925,CyberStrikeAI,CyberStrikeAI,1.7.18,"NTT America, Inc.",AS139659,US,Englewood,,favicon
+207.180.206.222,9876,2026-11-19,2026-11-27,2026-11-26T00:16:05.831822,CyberStrikeAI,CyberStrikeAI,1.7.17,Contabo GmbH,AS51167,DE,Frankfurt am Main,pusulatech.com,favicon
+209.126.10.129,8080,2026-11-21,2026-11-27,2026-11-20T23:24:29.544689,CyberStrikeAI,CyberStrikeAI,1.7.24,Contabo Inc.,AS40021,US,St. Louis,vmi3684992.contaboserver.net,favicon
+212.86.125.157,8168,2026-11-23,2026-11-27,2026-11-22T06:56:27.092448,CyberStrikeAI,CyberStrikeAI,1.7.24,Sollutium-NL SOLLUTIUM EU Sp z.o.o.,AS43641,UA,Dobropillia,dedicated.sollutium.com,favicon
+220.93.125.202,8080,2026-11-25,2026-11-27,2026-11-24T14:16:40.008022,CyberStrikeAI,CyberStrikeAI,1.7.24,Korea Telecom,AS4766,KR,Seoul,,favicon
+221.150.78.243,8080,2026-11-27,2026-11-27,2026-11-27T01:26:10.312923,CyberStrikeAI,CyberStrikeAI,1.7.24,Korea Telecom,AS4766,KR,Seoul,,favicon
+222.112.124.225,8080,2026-11-25,2026-11-27,2026-11-24T19:57:50.207400,CyberStrikeAI,CyberStrikeAI,1.7.24,Korea Telecom,AS4766,KR,Seoul,,favicon
